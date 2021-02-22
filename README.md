@@ -10,6 +10,3 @@ This repository might either be a collection with some blender photos or a Mod f
 
 ## Link to the [Steam Store Page](https://store.steampowered.com/app/881100/Noita/)
 ### Thanks to Nolla Games for making this game.
-
-
-JUST TESTING -e with Visual Studio Code
