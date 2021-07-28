@@ -3,7 +3,6 @@
 This repository might either be a collection with some blender photos or a Mod for the game Noita... Why not both?
 Backup of some crazy save files, that later will inspure to be made as a mod
 
-Just Testing - This is stupid
 
 [![Noita 1.0 Launch Trailer](https://img.youtube.com/vi/0cDkmQ0F0Jw/maxresdefault.jpg)](https://youtu.be/0cDkmQ0F0Jw)
 
