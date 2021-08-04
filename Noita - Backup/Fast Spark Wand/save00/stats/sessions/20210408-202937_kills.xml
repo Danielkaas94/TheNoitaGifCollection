@@ -1,0 +1,160 @@
+<Stats deaths="1" kills="357" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="5" >
+    </E>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="acidshot" value="9" >
+    </E>
+    <E key="arrowtrap_right" value="3" >
+    </E>
+    <E key="assassin" value="1" >
+    </E>
+    <E key="bat" value="8" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="4" >
+    </E>
+    <E key="bigzombie" value="5" >
+    </E>
+    <E key="bigzombiehead" value="5" >
+    </E>
+    <E key="bigzombietorso" value="3" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="bloom" value="7" >
+    </E>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="coward" value="1" >
+    </E>
+    <E key="crystal_physics" value="1" >
+    </E>
+    <E key="drone_lasership" value="3" >
+    </E>
+    <E key="drone_physics" value="1" >
+    </E>
+    <E key="firebug" value="9" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="fireskull" value="2" >
+    </E>
+    <E key="firetrap_left" value="1" >
+    </E>
+    <E key="firetrap_right" value="1" >
+    </E>
+    <E key="fish" value="4" >
+    </E>
+    <E key="flamer" value="1" >
+    </E>
+    <E key="fly" value="31" >
+    </E>
+    <E key="frog" value="2" >
+    </E>
+    <E key="fungus" value="3" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="lasershooter" value="1" >
+    </E>
+    <E key="longleg" value="16" >
+    </E>
+    <E key="lukki" value="5" >
+    </E>
+    <E key="lukki_eggs" value="4" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="lukki_tiny" value="3" >
+    </E>
+    <E key="mine_scavenger" value="3" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_weak" value="5" >
+    </E>
+    <E key="miniblob" value="7" >
+    </E>
+    <E key="necromancer" value="1" >
+    </E>
+    <E key="necromancer_shop" value="2" >
+    </E>
+    <E key="phantom_a" value="1" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="2" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="roboguard" value="1" >
+    </E>
+    <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="59" >
+    </E>
+    <E key="scavenger_heal" value="3" >
+    </E>
+    <E key="scavenger_leader" value="7" >
+    </E>
+    <E key="scavenger_mine" value="1" >
+    </E>
+    <E key="scavenger_poison" value="3" >
+    </E>
+    <E key="scavenger_smg" value="29" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shooterflower" value="6" >
+    </E>
+    <E key="shotgunner" value="13" >
+    </E>
+    <E key="skullfly" value="2" >
+    </E>
+    <E key="skullrat" value="5" >
+    </E>
+    <E key="slimeshooter" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+    <E key="sniper" value="4" >
+    </E>
+    <E key="spittrap_right" value="1" >
+    </E>
+    <E key="tank" value="4" >
+    </E>
+    <E key="tank_rocket" value="2" >
+    </E>
+    <E key="tentacler" value="5" >
+    </E>
+    <E key="tentacler_small" value="9" >
+    </E>
+    <E key="thunderskull" value="2" >
+    </E>
+    <E key="wizard_dark" value="2" >
+    </E>
+    <E key="wizard_hearty" value="3" >
+    </E>
+    <E key="wizard_poly" value="1" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="2" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+    <E key="zombie_weak" value="6" >
+    </E>
+  </kill_map>
+</Stats>

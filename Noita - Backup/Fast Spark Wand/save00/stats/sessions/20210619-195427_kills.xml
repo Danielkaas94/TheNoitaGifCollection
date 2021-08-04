@@ -1,0 +1,80 @@
+<Stats deaths="1" kills="161" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="5" >
+    </E>
+    <E key="acidshot" value="27" >
+    </E>
+    <E key="assassin" value="2" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="3" >
+    </E>
+    <E key="bigzombietorso" value="1" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="bloom" value="2" >
+    </E>
+    <E key="coward" value="1" >
+    </E>
+    <E key="drone_lasership" value="6" >
+    </E>
+    <E key="egg_hollow" value="2" >
+    </E>
+    <E key="flamer" value="2" >
+    </E>
+    <E key="fly" value="7" >
+    </E>
+    <E key="icer" value="1" >
+    </E>
+    <E key="lasershooter" value="3" >
+    </E>
+    <E key="lukki" value="2" >
+    </E>
+    <E key="lukki_eggs" value="5" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="lukki_tiny" value="3" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miniblob" value="25" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_glue" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="14" >
+    </E>
+    <E key="scavenger_heal" value="5" >
+    </E>
+    <E key="scavenger_leader" value="3" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="9" >
+    </E>
+    <E key="shotgunner" value="4" >
+    </E>
+    <E key="sniper" value="5" >
+    </E>
+    <E key="spearbot" value="1" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tentacler" value="4" >
+    </E>
+    <E key="tentacler_small" value="5" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="wizard_tele" value="2" >
+    </E>
+  </kill_map>
+</Stats>

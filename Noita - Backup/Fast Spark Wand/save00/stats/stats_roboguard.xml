@@ -1,0 +1,122 @@
+<Stats deaths="260" kills="268" player_kills="8" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="46" >
+    </E>
+    <E key="NULL | $damage_explosion" value="76" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="13" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="10" >
+    </E>
+    <E key="NULL | damage from material: concentrated mana" value="5" >
+    </E>
+    <E key="NULL | damage from material: lava" value="5" >
+    </E>
+    <E key="firemage | $damage_explosion" value="2" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="55" >
+    </E>
+    <E key="player | $damage_projectile" value="26" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="8" >
+    </E>
+    <E key="player_rng_items | $damage_physicshit" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="2" >
+    </E>
+    <E key="roboguard | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_poison | $damage_projectile" value="1" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+    <E key="thundermage | $damage_projectile" value="1" >
+    </E>
+    <E key="thunderskull | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="6" >
+    </E>
+    <E key="acidshot" value="9" >
+    </E>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="ant" value="1" >
+    </E>
+    <E key="bat" value="3" >
+    </E>
+    <E key="bigzombie" value="2" >
+    </E>
+    <E key="blob" value="16" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="drone_lasership" value="2" >
+    </E>
+    <E key="duck" value="1" >
+    </E>
+    <E key="firemage" value="1" >
+    </E>
+    <E key="fly" value="20" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="healerdrone_physics" value="1" >
+    </E>
+    <E key="lasershooter" value="2" >
+    </E>
+    <E key="maggot" value="1" >
+    </E>
+    <E key="miniblob" value="56" >
+    </E>
+    <E key="pebble_player_physics" value="2" >
+    </E>
+    <E key="plague_rats_rat" value="3" >
+    </E>
+    <E key="player" value="8" >
+    </E>
+    <E key="player_rng_items" value="6" >
+    </E>
+    <E key="rat" value="79" >
+    </E>
+    <E key="roboguard" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="5" >
+    </E>
+    <E key="scavenger_invis" value="2" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="sheep" value="2" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tentacler_small" value="3" >
+    </E>
+    <E key="thunderskull" value="11" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_swapper" value="2" >
+    </E>
+    <E key="zombie" value="10" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,66 @@
+<Stats deaths="1" kills="90" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="enlightened_alchemist" value="5" >
+    </E>
+    <E key="failed_alchemist" value="8" >
+    </E>
+    <E key="failed_alchemist_b" value="1" >
+    </E>
+    <E key="failed_alchemist_orb" value="1" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fireskull" value="2" >
+    </E>
+    <E key="frog" value="3" >
+    </E>
+    <E key="frog_big" value="1" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="glue" value="8" >
+    </E>
+    <E key="lasergun" value="4" >
+    </E>
+    <E key="longleg" value="6" >
+    </E>
+    <E key="miner_fire" value="4" >
+    </E>
+    <E key="miner_weak" value="8" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="rat" value="7" >
+    </E>
+    <E key="scavenger_glue" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shotgunner" value="4" >
+    </E>
+    <E key="shotgunner_weak" value="4" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="wizard_neutral" value="2" >
+    </E>
+    <E key="wizard_returner" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,14 @@
+<Stats deaths="4" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="necromancer | $damage_melee" value="1" >
+    </E>
+    <E key="orb_green | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

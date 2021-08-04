@@ -1,0 +1,16 @@
+<Stats deaths="1" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+  </kill_map>
+</Stats>

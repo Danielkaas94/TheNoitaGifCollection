@@ -1,0 +1,86 @@
+<Stats deaths="1" kills="156" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="crystal_physics | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="7" >
+    </E>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="ant" value="1" >
+    </E>
+    <E key="bat" value="19" >
+    </E>
+    <E key="bigbat" value="2" >
+    </E>
+    <E key="bigfirebug" value="5" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="firebug" value="15" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fly" value="7" >
+    </E>
+    <E key="frog_big" value="1" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="iceskull" value="8" >
+    </E>
+    <E key="longleg" value="9" >
+    </E>
+    <E key="lukki" value="2" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="22" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="scavenger_leader" value="2" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="5" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="sniper" value="6" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="wizard_poly" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+    <E key="zombie_weak" value="10" >
+    </E>
+  </kill_map>
+</Stats>

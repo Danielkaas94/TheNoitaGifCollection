@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="9" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="2" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+  </kill_map>
+</Stats>

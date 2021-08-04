@@ -1,0 +1,88 @@
+<Stats deaths="1" kills="109" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="firetrap_right | $damage_fire" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="arrowtrap_right" value="1" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="blob" value="3" >
+    </E>
+    <E key="drone_lasership" value="4" >
+    </E>
+    <E key="drone_physics" value="1" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="firemage" value="1" >
+    </E>
+    <E key="firetrap_left" value="2" >
+    </E>
+    <E key="fish" value="2" >
+    </E>
+    <E key="fly" value="3" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="lukki" value="3" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="maggot" value="2" >
+    </E>
+    <E key="mine_scavenger" value="1" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miniblob" value="19" >
+    </E>
+    <E key="monk" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="10" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_mine" value="1" >
+    </E>
+    <E key="scavenger_smg" value="9" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="skullrat" value="3" >
+    </E>
+    <E key="sniper" value="4" >
+    </E>
+    <E key="tank" value="3" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="tentacler" value="4" >
+    </E>
+    <E key="tentacler_small" value="3" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="turret_right" value="2" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+    <E key="wizard_poly" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+  </kill_map>
+</Stats>

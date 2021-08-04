@@ -1,0 +1,14 @@
+<Stats BUILD_NAME="Noita-Build-Dec  1 2020-15:56:41" >
+  <stats biomes_visited_with_wands="2" damage_taken="2.24517" dead="1" death_count="0" death_pos.x="-775.537" death_pos.y="3497.61" enemies_killed="8" gold="447" gold_all="447" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="8" kicks="6" killed_by=" | damage from material: freezing liquid" killed_by_extra="" places_visited="2" playtime="87.8667" playtime_str="0:01:27" projectiles_shot="48" teleports="0" wands_edited="0" world_seed="812713821" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" teleports="0" wands_edited="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

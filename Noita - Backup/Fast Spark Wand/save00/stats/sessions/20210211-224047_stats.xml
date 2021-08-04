@@ -1,0 +1,28 @@
+<Stats BUILD_NAME="Noita-Build-Dec  1 2020-15:56:41" >
+  <stats biomes_visited_with_wands="9" damage_taken="28.2695" dead="1" death_count="0" death_pos.x="574.903" death_pos.y="11053.3" enemies_killed="201" gold="2156" gold_all="3096" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="29" kicks="12" killed_by="Palauttajamestari | projectile" killed_by_extra=", while polymorphed to Suhiseva lammas" places_visited="9" playtime="1904.85" playtime_str="0:31:44" projectiles_shot="4001" teleports="3" wands_edited="11" world_seed="1263480590" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="8" damage_taken="23.0795" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="198" gold="2156" gold_all="3096" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="29" kicks="12" killed_by="" killed_by_extra="" places_visited="8" playtime="1877.75" playtime_str="0:31:17" projectiles_shot="3878" teleports="3" wands_edited="11" world_seed="1263480590" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

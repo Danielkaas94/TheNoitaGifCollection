@@ -1,0 +1,86 @@
+<Stats deaths="231" kills="34" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="24" >
+    </E>
+    <E key="NULL | $damage_electricity" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="42" >
+    </E>
+    <E key="NULL | $damage_fire" value="55" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="8" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="5" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="2" >
+    </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="1" >
+    </E>
+    <E key="fly | $damage_melee" value="4" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="2" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="34" >
+    </E>
+    <E key="player | $damage_projectile" value="21" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="5" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="3" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_projectile" value="3" >
+    </E>
+    <E key="scavenger_poison | $damage_projectile" value="4" >
+    </E>
+    <E key="shooterflower | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_melee" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="2" >
+    </E>
+    <E key="worm | worm bite" value="4" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="bloom" value="3" >
+    </E>
+    <E key="fly" value="3" >
+    </E>
+    <E key="frog" value="2" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="4" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="rat" value="8" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shooterflower" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+  </kill_map>
+</Stats>

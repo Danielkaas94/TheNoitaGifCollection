@@ -1,0 +1,58 @@
+<Stats deaths="125" kills="33" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="21" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="22" >
+    </E>
+    <E key="NULL | damage from material: concentrated mana" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
+    </E>
+    <E key="firemage | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="37" >
+    </E>
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="20" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_electricity" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="10" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="6" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="bigzombie" value="2" >
+    </E>
+    <E key="blob" value="6" >
+    </E>
+    <E key="drone_lasership" value="2" >
+    </E>
+    <E key="firemage" value="1" >
+    </E>
+    <E key="miniblob" value="12" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+  </kill_map>
+</Stats>

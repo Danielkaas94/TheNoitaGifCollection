@@ -1,0 +1,140 @@
+<Stats deaths="1881" kills="688" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="19" >
+    </E>
+    <E key="NULL | $damage_electricity" value="7" >
+    </E>
+    <E key="NULL | $damage_explosion" value="90" >
+    </E>
+    <E key="NULL | $damage_fire" value="229" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="34" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="base_apparition | $damage_melee" value="1" >
+    </E>
+    <E key="base_apparition | $damage_projectile" value="1" >
+    </E>
+    <E key="disc_bullet_big | bzzt!" value="1" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="23" >
+    </E>
+    <E key="longleg | $damage_melee" value="10" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="104" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="24" >
+    </E>
+    <E key="necromancer | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="24" >
+    </E>
+    <E key="player | $damage_fire" value="4" >
+    </E>
+    <E key="player | $damage_kick" value="2" >
+    </E>
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="546" >
+    </E>
+    <E key="player | $damage_slice" value="122" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="15" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="266" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="86" >
+    </E>
+    <E key="shaman | $damage_projectile" value="2" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="2" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="126" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="3" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="2" >
+    </E>
+    <E key="slimeshooter_weak | $damage_explosion" value="69" >
+    </E>
+    <E key="tentacle_portal | $damage_melee" value="1" >
+    </E>
+    <E key="thunder_blast | $damage_curse" value="1" >
+    </E>
+    <E key="worm | worm bite" value="21" >
+    </E>
+    <E key="worm_end | worm bite" value="1" >
+    </E>
+    <E key="worm_tiny | worm bite" value="4" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="29" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="acidshot" value="8" >
+    </E>
+    <E key="bat" value="3" >
+    </E>
+    <E key="bomb" value="4" >
+    </E>
+    <E key="elk" value="1" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="lantern_small" value="21" >
+    </E>
+    <E key="longleg" value="162" >
+    </E>
+    <E key="mine" value="2" >
+    </E>
+    <E key="miner_weak" value="60" >
+    </E>
+    <E key="pebble_player_physics" value="3" >
+    </E>
+    <E key="physics_barrel_oil" value="1" >
+    </E>
+    <E key="physics_barrel_radioactive" value="2" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="sheep" value="3" >
+    </E>
+    <E key="sheep_bat" value="3" >
+    </E>
+    <E key="shotgunner_weak" value="36" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="69" >
+    </E>
+    <E key="tnt" value="7" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+    <E key="zombie_weak" value="293" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,24 @@
+<Stats deaths="1" kills="18" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="mine" value="4" >
+    </E>
+    <E key="mine_scavenger" value="2" >
+    </E>
+    <E key="root_grower" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_heal" value="3" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,182 @@
+<Stats deaths="10134" kills="290" player_kills="4" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="277" >
+    </E>
+    <E key="NULL | $damage_electricity" value="10" >
+    </E>
+    <E key="NULL | $damage_explosion" value="379" >
+    </E>
+    <E key="NULL | $damage_fire" value="1142" >
+    </E>
+    <E key="NULL | $damage_melee" value="3" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="198" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="6" >
+    </E>
+    <E key="NULL | $damage_projectile" value="28" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="5" >
+    </E>
+    <E key="NULL | damage from material: acid" value="70" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="51" >
+    </E>
+    <E key="NULL | damage from material: toxic gas" value="3" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="55" >
+    </E>
+    <E key="acidshooter | $damage_melee" value="1" >
+    </E>
+    <E key="acidshooter_weak | $damage_melee" value="1" >
+    </E>
+    <E key="acidshooter_weak | $damage_projectile" value="23" >
+    </E>
+    <E key="alchemist | $damage_explosion" value="2" >
+    </E>
+    <E key="blob | $damage_melee" value="4" >
+    </E>
+    <E key="disc_bullet_big | bzzt!" value="1" >
+    </E>
+    <E key="evil_eye | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="firebug | $damage_fire" value="2" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="11" >
+    </E>
+    <E key="firemage_weak | $damage_fire" value="58" >
+    </E>
+    <E key="firemage_weak | $damage_melee" value="12" >
+    </E>
+    <E key="firemage_weak | $damage_projectile" value="1" >
+    </E>
+    <E key="giantshooter_weak | $damage_melee" value="4" >
+    </E>
+    <E key="longleg | $damage_melee" value="157" >
+    </E>
+    <E key="miner_santa | $damage_melee" value="7" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="1322" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="956" >
+    </E>
+    <E key="miner_weak | $damage_projectile" value="16" >
+    </E>
+    <E key="miner_weak | $damage_slice" value="9" >
+    </E>
+    <E key="miniblob | $damage_melee" value="4" >
+    </E>
+    <E key="phantom_a | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="94" >
+    </E>
+    <E key="player | $damage_fire" value="11" >
+    </E>
+    <E key="player | $damage_kick" value="2" >
+    </E>
+    <E key="player | $damage_melee" value="14" >
+    </E>
+    <E key="player | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="1536" >
+    </E>
+    <E key="player | $damage_slice" value="420" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="37" >
+    </E>
+    <E key="player_rng_items | $damage_fire" value="3" >
+    </E>
+    <E key="player_rng_items | $damage_kick" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="748" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="253" >
+    </E>
+    <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="shaman | $damage_projectile" value="3" >
+    </E>
+    <E key="shotgunner | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="3" >
+    </E>
+    <E key="shotgunner_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_fire" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="187" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="1546" >
+    </E>
+    <E key="shotgunner_weak | $damage_slice" value="3" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="2" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="4" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="3" >
+    </E>
+    <E key="slimeshooter_weak | $damage_explosion" value="9" >
+    </E>
+    <E key="slimeshooter_weak | $damage_melee" value="29" >
+    </E>
+    <E key="slimeshooter_weak | $damage_projectile" value="255" >
+    </E>
+    <E key="tentacle_portal | $damage_melee" value="1" >
+    </E>
+    <E key="thunder_blast | $damage_curse" value="3" >
+    </E>
+    <E key="thunder_blast | curse" value="4" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="90" >
+    </E>
+    <E key="worm_big | worm bite" value="4" >
+    </E>
+    <E key="worm_end | worm bite" value="1" >
+    </E>
+    <E key="worm_tiny | worm bite" value="29" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="7" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="5" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="giantshooter_weak" value="2" >
+    </E>
+    <E key="longleg" value="193" >
+    </E>
+    <E key="miner_weak" value="32" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="player" value="4" >
+    </E>
+    <E key="player_rng_items" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="shaman" value="3" >
+    </E>
+    <E key="sheep_bat" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="7" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimeshooter_weak" value="29" >
+    </E>
+    <E key="zombie_weak" value="7" >
+    </E>
+  </kill_map>
+</Stats>

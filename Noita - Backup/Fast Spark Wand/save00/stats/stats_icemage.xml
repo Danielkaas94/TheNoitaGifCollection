@@ -1,0 +1,30 @@
+<Stats deaths="12" kills="22" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="icemage | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="6" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="icemage" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="rat" value="17" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

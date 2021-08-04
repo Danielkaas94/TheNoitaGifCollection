@@ -1,0 +1,44 @@
+<Stats deaths="1" kills="53" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="2" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="bomb" value="3" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="frog" value="3" >
+    </E>
+    <E key="longleg" value="8" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_weak" value="6" >
+    </E>
+    <E key="miniblob" value="10" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

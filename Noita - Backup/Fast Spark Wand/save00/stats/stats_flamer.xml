@@ -1,0 +1,92 @@
+<Stats deaths="170" kills="114" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="16" >
+    </E>
+    <E key="NULL | $damage_explosion" value="20" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="7" >
+    </E>
+    <E key="NULL | damage from material: acid" value="3" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="firemage | $damage_explosion" value="2" >
+    </E>
+    <E key="flamer | $damage_explosion" value="1" >
+    </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="45" >
+    </E>
+    <E key="player | $damage_physicshit" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="31" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_electricity" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="19" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="9" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="2" >
+    </E>
+    <E key="sniper | $damage_melee" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="6" >
+    </E>
+    <E key="bat" value="3" >
+    </E>
+    <E key="blob" value="3" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="firebug" value="12" >
+    </E>
+    <E key="flamer" value="1" >
+    </E>
+    <E key="fly" value="3" >
+    </E>
+    <E key="healerdrone_physics" value="1" >
+    </E>
+    <E key="lasershooter" value="2" >
+    </E>
+    <E key="miniblob" value="31" >
+    </E>
+    <E key="pebble_player_physics" value="1" >
+    </E>
+    <E key="pipe_bomb" value="3" >
+    </E>
+    <E key="plague_rats_rat" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="player_rng_items" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="6" >
+    </E>
+    <E key="sniper" value="27" >
+    </E>
+    <E key="thunderskull" value="8" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

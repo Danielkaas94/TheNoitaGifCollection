@@ -1,0 +1,70 @@
+<Stats deaths="1" kills="82" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="arrowtrap_right" value="1" >
+    </E>
+    <E key="bigzombietorso" value="1" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="chest_mimic" value="1" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="fly" value="4" >
+    </E>
+    <E key="giant" value="2" >
+    </E>
+    <E key="healerdrone_physics" value="1" >
+    </E>
+    <E key="iceskull" value="3" >
+    </E>
+    <E key="mine" value="1" >
+    </E>
+    <E key="miniblob" value="3" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="phantom_a" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="18" >
+    </E>
+    <E key="scavenger_heal" value="3" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_poison" value="2" >
+    </E>
+    <E key="scavenger_smg" value="12" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="skullrat" value="3" >
+    </E>
+    <E key="sniper" value="6" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="turret_left" value="1" >
+    </E>
+  </kill_map>
+</Stats>

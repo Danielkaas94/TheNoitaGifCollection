@@ -1,0 +1,46 @@
+<Stats deaths="1" kills="69" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="coward" value="3" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="fish" value="3" >
+    </E>
+    <E key="flamer" value="1" >
+    </E>
+    <E key="fly" value="11" >
+    </E>
+    <E key="lukki" value="2" >
+    </E>
+    <E key="lukki_eggs" value="6" >
+    </E>
+    <E key="lukki_longleg" value="3" >
+    </E>
+    <E key="mine_scavenger" value="7" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="potion" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="6" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="8" >
+    </E>
+    <E key="shooterflower" value="4" >
+    </E>
+    <E key="shotgunner" value="4" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+  </kill_map>
+</Stats>

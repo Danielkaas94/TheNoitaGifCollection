@@ -1,0 +1,54 @@
+<Stats deaths="149" kills="2" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_fire" value="7" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="47" >
+    </E>
+    <E key="NULL | damage from material: acid" value="5" >
+    </E>
+    <E key="crystal_physics | $damage_projectile" value="1" >
+    </E>
+    <E key="failed_alchemist_b | $damage_explosion" value="1" >
+    </E>
+    <E key="lasergun | $damage_projectile" value="2" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="13" >
+    </E>
+    <E key="player | $damage_fire" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="17" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="8" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="1" >
+    </E>
+    <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="skullrat | $damage_melee" value="8" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="22" >
+    </E>
+    <E key="worm_skull | worm bite" value="3" >
+    </E>
+    <E key="zombie | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="failed_alchemist_b" value="1" >
+    </E>
+    <E key="player_rng_items" value="1" >
+    </E>
+  </kill_map>
+</Stats>

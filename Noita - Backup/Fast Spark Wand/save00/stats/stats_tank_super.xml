@@ -1,0 +1,46 @@
+<Stats deaths="25" kills="14" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="6" >
+    </E>
+    <E key="NULL | $damage_explosion" value="6" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="5" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="mine" value="1" >
+    </E>
+    <E key="pebble_player_physics" value="2" >
+    </E>
+    <E key="physics_tubelamp" value="1" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+  </kill_map>
+</Stats>
