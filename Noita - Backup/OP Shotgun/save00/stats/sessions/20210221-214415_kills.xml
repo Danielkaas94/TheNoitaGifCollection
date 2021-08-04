@@ -1,0 +1,42 @@
+<Stats deaths="1" kills="47" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="fly" value="2" >
+    </E>
+    <E key="lukki_eggs" value="2" >
+    </E>
+    <E key="lukki_tiny" value="2" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="16" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_mine" value="1" >
+    </E>
+    <E key="scavenger_smg" value="8" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="sniper" value="3" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+    <E key="turret_left" value="1" >
+    </E>
+    <E key="turret_right" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,58 @@
+<Stats deaths="11" kills="41" player_kills="3" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="phantom_a | $damage_melee" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="3" >
+    </E>
+    <E key="acidshot" value="3" >
+    </E>
+    <E key="arrowtrap_left" value="1" >
+    </E>
+    <E key="arrowtrap_right" value="2" >
+    </E>
+    <E key="firetrap_left" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="phantom_a" value="1" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="3" >
+    </E>
+    <E key="player" value="3" >
+    </E>
+    <E key="player_rng_items" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="skullfly" value="6" >
+    </E>
+    <E key="skullrat" value="5" >
+    </E>
+    <E key="tentacler" value="4" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+    <E key="wand_ghost" value="1" >
+    </E>
+    <E key="wraith" value="1" >
+    </E>
+  </kill_map>
+</Stats>

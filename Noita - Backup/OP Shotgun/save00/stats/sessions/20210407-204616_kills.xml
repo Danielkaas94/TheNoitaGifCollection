@@ -1,0 +1,52 @@
+<Stats deaths="1" kills="83" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="player_rng_items | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="16" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="firebug" value="7" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="glue" value="10" >
+    </E>
+    <E key="longleg" value="6" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="player_rng_items" value="1" >
+    </E>
+    <E key="rat" value="7" >
+    </E>
+    <E key="scavenger_glue" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="shotgunner" value="8" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="zombie_weak" value="5" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,128 @@
+<Stats deaths="573" kills="130" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="5" >
+    </E>
+    <E key="NULL | $damage_explosion" value="116" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | $damage_projectile" value="8" >
+    </E>
+    <E key="NULL | damage from material: acid" value="5" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="27" >
+    </E>
+    <E key="NULL | damage from material: lava" value="4" >
+    </E>
+    <E key="NULL | physics body damaged" value="16" >
+    </E>
+    <E key="bloom | $damage_projectile" value="1" >
+    </E>
+    <E key="boss_centipede | $damage_projectile" value="10" >
+    </E>
+    <E key="crystal_physics | $damage_projectile" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="9" >
+    </E>
+    <E key="drone_physics | $damage_projectile" value="5" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_electricity" value="1" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
+    <E key="flamer | $damage_explosion" value="1" >
+    </E>
+    <E key="icer | $damage_explosion" value="2" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="2" >
+    </E>
+    <E key="lasershooter | $damage_projectile" value="1" >
+    </E>
+    <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
+    <E key="monk | $damage_projectile" value="1" >
+    </E>
+    <E key="necromancer_shop | $damage_explosion" value="4" >
+    </E>
+    <E key="necromancer_shop | $damage_projectile" value="21" >
+    </E>
+    <E key="pebble_physics | $damage_explosion" value="1" >
+    </E>
+    <E key="pebble_player_physics | $damage_explosion" value="123" >
+    </E>
+    <E key="phantom_a | $damage_projectile" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="30" >
+    </E>
+    <E key="player | $damage_projectile" value="9" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="5" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="2" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_projectile" value="13" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="15" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="5" >
+    </E>
+    <E key="scavenger_poison | $damage_projectile" value="6" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="37" >
+    </E>
+    <E key="shooterflower | $damage_projectile" value="2" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="17" >
+    </E>
+    <E key="shotgunner_weak | $damage_slice" value="2" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="5" >
+    </E>
+    <E key="slimeshooter_weak | $damage_projectile" value="3" >
+    </E>
+    <E key="sniper | $damage_projectile" value="9" >
+    </E>
+    <E key="spearbot | $damage_projectile" value="3" >
+    </E>
+    <E key="tank | $damage_projectile" value="9" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="1" >
+    </E>
+    <E key="tank_super | $damage_projectile" value="2" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="12" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="6" >
+    </E>
+    <E key="thunderskull | $damage_electricity" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="1" >
+    </E>
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="pebble_player_physics" value="123" >
+    </E>
+    <E key="player_rng_items" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+  </kill_map>
+</Stats>

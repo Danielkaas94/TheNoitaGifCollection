@@ -1,0 +1,38 @@
+<Stats deaths="28" kills="21" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="contact_damage | $damage_curse" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="19" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="firebug" value="4" >
+    </E>
+    <E key="fly" value="2" >
+    </E>
+    <E key="pebble_player_physics" value="3" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="3" >
+    </E>
+    <E key="thunderskull" value="4" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

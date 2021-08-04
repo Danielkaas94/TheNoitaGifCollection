@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="10" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

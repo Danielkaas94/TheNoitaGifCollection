@@ -1,0 +1,68 @@
+<Stats deaths="1" kills="54" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="3" >
+    </E>
+    <E key="acidshot" value="4" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="boss_centipede_minion" value="1" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="lukki" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="monk" value="2" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="7" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="5" >
+    </E>
+    <E key="shooterflower" value="1" >
+    </E>
+    <E key="shotgunner" value="5" >
+    </E>
+    <E key="skullrat" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+    <E key="turret_left" value="2" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

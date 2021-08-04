@@ -1,0 +1,86 @@
+<Stats deaths="132" kills="54" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="5" >
+    </E>
+    <E key="NULL | $damage_fire" value="19" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="acidshooter | $damage_melee" value="1" >
+    </E>
+    <E key="crystal_physics | $damage_projectile" value="2" >
+    </E>
+    <E key="necromancer | $damage_explosion" value="1" >
+    </E>
+    <E key="phantom_b | $damage_projectile" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="22" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="33" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="6" >
+    </E>
+    <E key="player_rng_items | $damage_physicshit" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="6" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="3" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="4" >
+    </E>
+    <E key="skullrat | $damage_melee" value="2" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="4" >
+    </E>
+    <E key="worm | worm bite" value="4" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="3" >
+    </E>
+    <E key="worm_tiny | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="necromancer" value="1" >
+    </E>
+    <E key="phantom_a" value="2" >
+    </E>
+    <E key="scorpion" value="36" >
+    </E>
+    <E key="sheep_fly" value="1" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="skullrat" value="7" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="wolf" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

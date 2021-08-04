@@ -1,0 +1,56 @@
+<Stats deaths="222" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="21" >
+    </E>
+    <E key="NULL | $damage_electricity" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="34" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="11" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="25" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="5" >
+    </E>
+    <E key="NULL | damage from material: lava" value="14" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="3" >
+    </E>
+    <E key="bat | $damage_melee" value="1" >
+    </E>
+    <E key="bigfirebug | $damage_melee" value="1" >
+    </E>
+    <E key="firebug | $damage_melee" value="1" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="longleg | $damage_melee" value="1" >
+    </E>
+    <E key="miner_fire | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="16" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="48" >
+    </E>
+    <E key="player | $damage_slice" value="15" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="13" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="3" >
+    </E>
+    <E key="shotgunner | $damage_explosion" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="miner_fire" value="1" >
+    </E>
+  </kill_map>
+</Stats>

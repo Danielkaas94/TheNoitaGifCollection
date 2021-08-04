@@ -1,0 +1,74 @@
+<Stats deaths="74" kills="91" player_kills="5" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="NULL | physics body damaged" value="50" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="5" >
+    </E>
+    <E key="player | $damage_projectile" value="10" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="11" >
+    </E>
+    <E key="acidshot" value="12" >
+    </E>
+    <E key="arrowtrap_right" value="1" >
+    </E>
+    <E key="barfer" value="2" >
+    </E>
+    <E key="failed_alchemist_b" value="1" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="maggot" value="3" >
+    </E>
+    <E key="necromancer" value="2" >
+    </E>
+    <E key="pebble_player_physics" value="1" >
+    </E>
+    <E key="phantom_a" value="4" >
+    </E>
+    <E key="phantom_b" value="3" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="5" >
+    </E>
+    <E key="player" value="5" >
+    </E>
+    <E key="player_rng_items" value="3" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="scorpion" value="11" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="tentacler" value="7" >
+    </E>
+    <E key="tentacler_small" value="10" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_hearty" value="1" >
+    </E>
+    <E key="wraith" value="1" >
+    </E>
+  </kill_map>
+</Stats>

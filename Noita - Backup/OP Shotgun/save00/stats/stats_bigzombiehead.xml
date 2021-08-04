@@ -1,0 +1,104 @@
+<Stats deaths="404" kills="8" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="32" >
+    </E>
+    <E key="NULL | $damage_electricity" value="49" >
+    </E>
+    <E key="NULL | $damage_explosion" value="47" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="40" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="2" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="6" >
+    </E>
+    <E key="NULL | damage from material: lava" value="17" >
+    </E>
+    <E key="NULL | damage from material: toxic ice" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="2" >
+    </E>
+    <E key="bigzombietorso | $damage_explosion" value="1" >
+    </E>
+    <E key="firemage | $damage_explosion" value="3" >
+    </E>
+    <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="necromancer_shop | $damage_explosion" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="4" >
+    </E>
+    <E key="player | $damage_electricity" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="50" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_ice" value="1" >
+    </E>
+    <E key="player | $damage_physicshit" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="50" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="20" >
+    </E>
+    <E key="player_rng_items | $damage_physicshit" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="21" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="4" >
+    </E>
+    <E key="scavenger_glue | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="3" >
+    </E>
+    <E key="scavenger_leader | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="9" >
+    </E>
+    <E key="scavenger_mine | $damage_electricity" value="1" >
+    </E>
+    <E key="scavenger_mine | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="3" >
+    </E>
+    <E key="tank | $damage_projectile" value="5" >
+    </E>
+    <E key="tank_rocket | $damage_explosion" value="2" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="4" >
+    </E>
+    <E key="tank_super | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="2" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="blob" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="miniblob" value="4" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="sheep" value="1" >
+    </E>
+  </kill_map>
+</Stats>

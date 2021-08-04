@@ -1,0 +1,76 @@
+<Stats deaths="110" kills="58" player_kills="5" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="43" >
+    </E>
+    <E key="NULL | $damage_fire" value="3" >
+    </E>
+    <E key="NULL | $damage_melee" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="8" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="longleg | $damage_melee" value="1" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="2" >
+    </E>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="14" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="14" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="3" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="4" >
+    </E>
+    <E key="wizard_swapper | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="zombie | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="drone_physics" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="frog" value="21" >
+    </E>
+    <E key="miner_weak" value="3" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="player" value="5" >
+    </E>
+    <E key="rat" value="16" >
+    </E>
+    <E key="sheep_fly" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="worm_tiny" value="1" >
+    </E>
+    <E key="zombie" value="3" >
+    </E>
+  </kill_map>
+</Stats>

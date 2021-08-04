@@ -1,0 +1,32 @@
+<Stats deaths="1" kills="23" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="worm_big | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="2" >
+    </E>
+    <E key="firebug" value="7" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+  </kill_map>
+</Stats>

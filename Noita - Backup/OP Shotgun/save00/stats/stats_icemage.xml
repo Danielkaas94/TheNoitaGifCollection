@@ -1,0 +1,16 @@
+<Stats deaths="4" kills="9" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="rat" value="7" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+  </kill_map>
+</Stats>

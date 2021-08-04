@@ -1,0 +1,80 @@
+<Stats deaths="94" kills="109" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_electricity" value="8" >
+    </E>
+    <E key="NULL | $damage_explosion" value="4" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | $damage_water" value="15" >
+    </E>
+    <E key="NULL | damage from material: Water" value="9" >
+    </E>
+    <E key="NULL | damage from material: acid" value="13" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="3" >
+    </E>
+    <E key="blob | $damage_melee" value="2" >
+    </E>
+    <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="10" >
+    </E>
+    <E key="player | $damage_projectile" value="12" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="8" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="turret_right | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="bigzombie" value="2" >
+    </E>
+    <E key="bigzombiehead" value="3" >
+    </E>
+    <E key="blob" value="15" >
+    </E>
+    <E key="drone_lasership" value="3" >
+    </E>
+    <E key="flamer" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="miniblob" value="63" >
+    </E>
+    <E key="monk" value="2" >
+    </E>
+    <E key="physics_barrel_oil" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="roboguard" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="tentacler_small" value="4" >
+    </E>
+  </kill_map>
+</Stats>

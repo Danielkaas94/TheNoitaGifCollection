@@ -1,0 +1,54 @@
+<Stats deaths="35" kills="28" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | $damage_fire" value="2" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="enlightened_alchemist | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="7" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="10" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="4" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="2" >
+    </E>
+    <E key="skullrat | $damage_melee" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="4" >
+    </E>
+    <E key="homunculus" value="1" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="scorpion" value="10" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="spittrap_left" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+  </kill_map>
+</Stats>
