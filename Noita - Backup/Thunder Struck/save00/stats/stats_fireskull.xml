@@ -1,0 +1,78 @@
+<Stats deaths="397" kills="46" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="24" >
+    </E>
+    <E key="NULL | $damage_explosion" value="122" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="22" >
+    </E>
+    <E key="NULL | damage from material: Water" value="56" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="base_apparition | $damage_slice" value="1" >
+    </E>
+    <E key="bigfirebug | $damage_fire" value="2" >
+    </E>
+    <E key="bigfirebug | $damage_projectile" value="1" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
+    <E key="firebug | $damage_melee" value="1" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="6" >
+    </E>
+    <E key="miner_santa | $damage_explosion" value="1" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="10" >
+    </E>
+    <E key="miner_weak | $damage_projectile" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="11" >
+    </E>
+    <E key="player | $damage_fire" value="5" >
+    </E>
+    <E key="player | $damage_kick" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="51" >
+    </E>
+    <E key="player | $damage_slice" value="20" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_fire" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_kick" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_physicshit" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="29" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="12" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="4" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="3" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="rat" value="42" >
+    </E>
+    <E key="sheep_bat" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,108 @@
+<Stats deaths="631" kills="40" player_kills="5" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="35" >
+    </E>
+    <E key="NULL | $damage_electricity" value="5" >
+    </E>
+    <E key="NULL | $damage_explosion" value="124" >
+    </E>
+    <E key="NULL | $damage_fire" value="101" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="16" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="9" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="26" >
+    </E>
+    <E key="ant | $damage_melee" value="2" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="drone_physics | $damage_explosion" value="1" >
+    </E>
+    <E key="drone_physics | $damage_projectile" value="1" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="3" >
+    </E>
+    <E key="fly | $damage_melee" value="2" >
+    </E>
+    <E key="frog_big | $damage_melee" value="21" >
+    </E>
+    <E key="longleg | $damage_melee" value="2" >
+    </E>
+    <E key="lukki_longleg | hit" value="1" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="27" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="14" >
+    </E>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="31" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_plasmabeam" value="6" >
+    </E>
+    <E key="player | $damage_projectile" value="74" >
+    </E>
+    <E key="player | $damage_slice" value="26" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="11" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="23" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="8" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="2" >
+    </E>
+    <E key="rat | $damage_melee" value="3" >
+    </E>
+    <E key="shooterflower | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner | $damage_melee" value="3" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="7" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="3" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="wizard_dark | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_explosion" value="3" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_twitchy | $damage_projectile" value="2" >
+    </E>
+    <E key="worm | worm bite" value="15" >
+    </E>
+    <E key="zombie | $damage_melee" value="10" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fish_large" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="player" value="5" >
+    </E>
+    <E key="rat" value="28" >
+    </E>
+    <E key="zombie" value="4" >
+    </E>
+  </kill_map>
+</Stats>

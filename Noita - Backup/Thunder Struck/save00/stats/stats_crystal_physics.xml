@@ -1,0 +1,80 @@
+<Stats deaths="84" kills="100" player_kills="5" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="NULL | physics body damaged" value="52" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="5" >
+    </E>
+    <E key="player | $damage_projectile" value="16" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="11" >
+    </E>
+    <E key="acidshot" value="14" >
+    </E>
+    <E key="arrowtrap_left" value="1" >
+    </E>
+    <E key="arrowtrap_right" value="1" >
+    </E>
+    <E key="barfer" value="2" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="failed_alchemist_b" value="1" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="maggot" value="3" >
+    </E>
+    <E key="necromancer" value="2" >
+    </E>
+    <E key="pebble_player_physics" value="1" >
+    </E>
+    <E key="phantom_a" value="4" >
+    </E>
+    <E key="phantom_b" value="3" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="5" >
+    </E>
+    <E key="player" value="5" >
+    </E>
+    <E key="player_rng_items" value="3" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="scorpion" value="12" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="tentacler" value="8" >
+    </E>
+    <E key="tentacler_small" value="11" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_hearty" value="1" >
+    </E>
+    <E key="wizard_returner" value="1" >
+    </E>
+    <E key="wraith" value="1" >
+    </E>
+  </kill_map>
+</Stats>

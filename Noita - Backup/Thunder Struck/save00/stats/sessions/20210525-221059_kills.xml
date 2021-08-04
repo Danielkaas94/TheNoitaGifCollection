@@ -1,0 +1,84 @@
+<Stats deaths="1" kills="195" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="ant" value="1" >
+    </E>
+    <E key="bat" value="6" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="drone_lasership" value="8" >
+    </E>
+    <E key="firebug" value="7" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="frog_big" value="1" >
+    </E>
+    <E key="fungus" value="2" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="icemage" value="1" >
+    </E>
+    <E key="iceskull" value="5" >
+    </E>
+    <E key="longleg" value="10" >
+    </E>
+    <E key="miner" value="7" >
+    </E>
+    <E key="miner_weak" value="12" >
+    </E>
+    <E key="miniblob" value="15" >
+    </E>
+    <E key="rat" value="12" >
+    </E>
+    <E key="scavenger_glue" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="24" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="21" >
+    </E>
+    <E key="shotgunner" value="10" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="9" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+    <E key="sniper" value="3" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tentacler_small" value="3" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_tele" value="2" >
+    </E>
+    <E key="zombie" value="6" >
+    </E>
+    <E key="zombie_weak" value="6" >
+    </E>
+  </kill_map>
+</Stats>

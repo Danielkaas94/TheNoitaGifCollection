@@ -1,0 +1,70 @@
+<Stats deaths="195" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_electricity" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="57" >
+    </E>
+    <E key="NULL | $damage_fire" value="3" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="5" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="14" >
+    </E>
+    <E key="disc_bullet_big | bzzt!" value="1" >
+    </E>
+    <E key="drone_physics | $damage_projectile" value="1" >
+    </E>
+    <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="12" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_ice" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="46" >
+    </E>
+    <E key="player | $damage_slice" value="7" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="19" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="4" >
+    </E>
+    <E key="roboguard | $damage_explosion" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_invis | $damage_explosion" value="2" >
+    </E>
+    <E key="wizard_swapper | $damage_projectile" value="2" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_invis" value="2" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="zombie" value="3" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,60 @@
+<Stats deaths="1" kills="39" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="3" >
+    </E>
+    <E key="arrowtrap_right" value="1" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="firemage" value="1" >
+    </E>
+    <E key="firetrap_right" value="2" >
+    </E>
+    <E key="fish" value="2" >
+    </E>
+    <E key="fly" value="2" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="lukki" value="2" >
+    </E>
+    <E key="maggot" value="1" >
+    </E>
+    <E key="monk" value="1" >
+    </E>
+    <E key="phantom_a" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="skullrat" value="3" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

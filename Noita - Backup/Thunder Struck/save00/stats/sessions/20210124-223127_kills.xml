@@ -1,0 +1,72 @@
+<Stats deaths="1" kills="71" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="bigzombie" value="2" >
+    </E>
+    <E key="bigzombiehead" value="2" >
+    </E>
+    <E key="drone_lasership" value="4" >
+    </E>
+    <E key="flamer" value="1" >
+    </E>
+    <E key="fly" value="6" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="homunculus" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="lukki" value="1" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="maggot" value="1" >
+    </E>
+    <E key="mine" value="1" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miniblob" value="5" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="roboguard" value="1" >
+    </E>
+    <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="8" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="6" >
+    </E>
+    <E key="shotgunner" value="6" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="sniper" value="3" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+    <E key="zombie_weak" value="5" >
+    </E>
+  </kill_map>
+</Stats>

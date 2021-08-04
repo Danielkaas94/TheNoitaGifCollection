@@ -1,0 +1,44 @@
+<Stats deaths="1" kills="46" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="monk | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="8" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="firebug" value="6" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+    <E key="worm_big" value="1" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

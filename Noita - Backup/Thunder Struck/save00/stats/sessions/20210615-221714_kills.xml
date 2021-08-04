@@ -1,0 +1,52 @@
+<Stats deaths="0" kills="122" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="drone_lasership" value="4" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="iceskull" value="4" >
+    </E>
+    <E key="longleg" value="20" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="pebble_physics" value="4" >
+    </E>
+    <E key="rat" value="6" >
+    </E>
+    <E key="scavenger_grenade" value="20" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="17" >
+    </E>
+    <E key="shotgunner" value="11" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sniper" value="4" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tank_rocket" value="4" >
+    </E>
+    <E key="turret_left" value="2" >
+    </E>
+    <E key="zombie_weak" value="5" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="12" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_ice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+  </kill_map>
+</Stats>

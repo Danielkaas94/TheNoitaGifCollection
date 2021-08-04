@@ -1,0 +1,36 @@
+<Stats deaths="1" kills="52" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="10" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="monk" value="2" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="rat" value="9" >
+    </E>
+    <E key="scavenger_grenade" value="3" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="slimeshooter" value="4" >
+    </E>
+    <E key="sniper" value="3" >
+    </E>
+    <E key="zombie_weak" value="6" >
+    </E>
+  </kill_map>
+</Stats>

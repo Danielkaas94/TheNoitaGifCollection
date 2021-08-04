@@ -1,0 +1,84 @@
+<Stats deaths="116" kills="34" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | " value="1" >
+    </E>
+    <E key="NULL | $damage_drowning" value="47" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="6" >
+    </E>
+    <E key="NULL | $damage_fire" value="6" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="3" >
+    </E>
+    <E key="NULL | damage from material: toxic gas" value="1" >
+    </E>
+    <E key="bigzombie | $damage_melee" value="1" >
+    </E>
+    <E key="firebug | $damage_melee" value="1" >
+    </E>
+    <E key="fly | $damage_melee" value="2" >
+    </E>
+    <E key="phantom_a | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="7" >
+    </E>
+    <E key="player | $damage_fire" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="15" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="6" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
+    </E>
+    <E key="turret_left | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="lukki_longleg" value="2" >
+    </E>
+    <E key="miner" value="6" >
+    </E>
+    <E key="miniblob" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="10" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

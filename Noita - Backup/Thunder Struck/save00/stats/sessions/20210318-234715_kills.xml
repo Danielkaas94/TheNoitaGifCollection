@@ -1,0 +1,54 @@
+<Stats deaths="1" kills="61" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="3" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="firebug" value="4" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fungus" value="2" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="longleg" value="7" >
+    </E>
+    <E key="mine" value="2" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="miner_weak" value="6" >
+    </E>
+    <E key="miniblob" value="11" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

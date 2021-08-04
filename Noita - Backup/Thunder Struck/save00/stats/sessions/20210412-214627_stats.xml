@@ -1,0 +1,24 @@
+<Stats BUILD_NAME="Noita-Build-Apr  2 2021-20:44:21" >
+  <stats biomes_visited_with_wands="7" damage_taken="22.53" dead="1" death_count="0" death_pos.x="-451.543" death_pos.y="7303.65" enemies_killed="132" gold="1401" gold_all="1401" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="21" kicks="6" killed_by="Jättikonna | melee" killed_by_extra="" places_visited="7" playtime="1563.92" playtime_str="0:26:03" projectiles_shot="5690" streaks="0" teleports="0" wands_edited="6" world_seed="291451315" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="5" damage_taken="14.91" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="111" gold="1271" gold_all="1271" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="18" kicks="6" killed_by="" killed_by_extra="" places_visited="5" playtime="1358.82" playtime_str="0:22:38" projectiles_shot="4809" streaks="0" teleports="0" wands_edited="6" world_seed="291451315" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

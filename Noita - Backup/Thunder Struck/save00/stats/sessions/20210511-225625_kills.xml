@@ -1,0 +1,10 @@
+<Stats deaths="1" kills="2" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: Greed-cursed rock" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

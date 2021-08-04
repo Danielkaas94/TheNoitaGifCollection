@@ -1,0 +1,72 @@
+<Stats deaths="1" kills="91" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="5" >
+    </E>
+    <E key="assassin" value="2" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="coward" value="1" >
+    </E>
+    <E key="dripping_water" value="1" >
+    </E>
+    <E key="drone_lasership" value="2" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="glue" value="1" >
+    </E>
+    <E key="maggot" value="1" >
+    </E>
+    <E key="mine_scavenger" value="1" >
+    </E>
+    <E key="miner" value="5" >
+    </E>
+    <E key="miniblob" value="3" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="roboguard" value="1" >
+    </E>
+    <E key="scavenger_glue" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="23" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_mine" value="1" >
+    </E>
+    <E key="scavenger_smg" value="12" >
+    </E>
+    <E key="shotgunner" value="5" >
+    </E>
+    <E key="sniper" value="4" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="3" >
+    </E>
+    <E key="wizard_dark" value="2" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+  </kill_map>
+</Stats>

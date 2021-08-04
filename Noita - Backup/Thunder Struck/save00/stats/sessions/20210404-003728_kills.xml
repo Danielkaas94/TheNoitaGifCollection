@@ -1,0 +1,14 @@
+<Stats deaths="1" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="miner | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="pollen" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+  </kill_map>
+</Stats>

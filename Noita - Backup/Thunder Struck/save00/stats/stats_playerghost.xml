@@ -1,0 +1,38 @@
+<Stats deaths="7" kills="15" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_smg | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="failed_alchemist_b" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="frog" value="2" >
+    </E>
+    <E key="maggot" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="skullrat" value="1" >
+    </E>
+  </kill_map>
+</Stats>

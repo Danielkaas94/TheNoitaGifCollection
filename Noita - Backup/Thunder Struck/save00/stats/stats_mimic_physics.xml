@@ -1,0 +1,20 @@
+<Stats deaths="16" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: lava" value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="6" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="2" >
+    </E>
+    <E key="skullrat | $damage_melee" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="2" >
+    </E>
+    <E key="wizard_hearty | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

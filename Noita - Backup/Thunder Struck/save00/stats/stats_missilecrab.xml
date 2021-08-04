@@ -1,0 +1,60 @@
+<Stats deaths="43" kills="32" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="11" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="4" >
+    </E>
+    <E key="NULL | damage from material: concentrated mana" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="3" >
+    </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="10" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="4" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="2" >
+    </E>
+    <E key="sniper | $damage_melee" value="1" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="drone_physics" value="1" >
+    </E>
+    <E key="glue" value="2" >
+    </E>
+    <E key="miniblob" value="11" >
+    </E>
+    <E key="plague_rats_rat" value="4" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="3" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="thunderskull" value="2" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

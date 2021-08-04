@@ -1,0 +1,100 @@
+<Stats deaths="244" kills="101" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_electricity" value="25" >
+    </E>
+    <E key="NULL | $damage_explosion" value="30" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="11" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="6" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="9" >
+    </E>
+    <E key="bat | $damage_melee" value="1" >
+    </E>
+    <E key="firemage | $damage_explosion" value="2" >
+    </E>
+    <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="57" >
+    </E>
+    <E key="player | $damage_fire" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="50" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="player_rng_items | $damage_electricity" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="12" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="14" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="3" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="bat" value="5" >
+    </E>
+    <E key="dripping_radioactive" value="1" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="glue" value="1" >
+    </E>
+    <E key="iceskull" value="17" >
+    </E>
+    <E key="mine" value="1" >
+    </E>
+    <E key="pebble_player_physics" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="5" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="player_rng_items" value="2" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="rat" value="43" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="thunderskull" value="9" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+  </kill_map>
+</Stats>

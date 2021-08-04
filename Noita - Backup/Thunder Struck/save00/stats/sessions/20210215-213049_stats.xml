@@ -1,0 +1,22 @@
+<Stats BUILD_NAME="Noita-Build-Dec  1 2020-15:56:41" >
+  <stats biomes_visited_with_wands="6" damage_taken="4.43996" dead="1" death_count="0" death_pos.x="-321.86" death_pos.y="11459.5" enemies_killed="307" gold="763" gold_all="1363" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="4" kicks="0" killed_by=" | heavy impact" killed_by_extra="" places_visited="6" playtime="224.567" playtime_str="0:03:44" projectiles_shot="75" teleports="0" wands_edited="0" world_seed="1059030290" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="5" damage_taken="0.95" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="281" gold="93" gold_all="693" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="4" kicks="0" killed_by="" killed_by_extra="" places_visited="5" playtime="166.25" playtime_str="0:02:46" projectiles_shot="49" teleports="0" wands_edited="0" world_seed="1059030290" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

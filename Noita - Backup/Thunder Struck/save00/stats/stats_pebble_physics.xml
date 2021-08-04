@@ -1,0 +1,86 @@
+<Stats deaths="2489" kills="1092" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="8" >
+    </E>
+    <E key="NULL | $damage_explosion" value="65" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="22" >
+    </E>
+    <E key="NULL | $damage_projectile" value="7" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="9" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="645" >
+    </E>
+    <E key="NULL | physics body damaged" value="10" >
+    </E>
+    <E key="bigfirebug | $damage_projectile" value="1" >
+    </E>
+    <E key="disc_bullet_big | bzzt!" value="3" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="10" >
+    </E>
+    <E key="pebble_physics | $damage_explosion" value="1076" >
+    </E>
+    <E key="player | $damage_electricity" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="19" >
+    </E>
+    <E key="player | $damage_projectile" value="361" >
+    </E>
+    <E key="player | $damage_slice" value="25" >
+    </E>
+    <E key="player | bzzt!" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_electricity" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="11" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="124" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="16" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="8" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="7" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="4" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="7" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="2" >
+    </E>
+    <E key="sniper | $damage_projectile" value="18" >
+    </E>
+    <E key="tank | $damage_projectile" value="20" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="2" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="drone_physics" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="pebble_physics" value="1076" >
+    </E>
+    <E key="pebble_player_physics" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+  </kill_map>
+</Stats>

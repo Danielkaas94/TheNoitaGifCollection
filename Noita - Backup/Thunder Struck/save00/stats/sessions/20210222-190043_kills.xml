@@ -1,0 +1,36 @@
+<Stats deaths="1" kills="31" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="shotgunner | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="3" >
+    </E>
+    <E key="bomb" value="2" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="6" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>

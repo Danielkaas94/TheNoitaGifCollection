@@ -1,0 +1,28 @@
+<Stats deaths="1" kills="25" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="5" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="rat" value="7" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="5" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+  </kill_map>
+</Stats>

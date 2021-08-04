@@ -1,0 +1,18 @@
+<Stats deaths="10" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | physics body damaged" value="1" >
+    </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

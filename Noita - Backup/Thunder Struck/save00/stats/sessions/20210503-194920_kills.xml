@@ -1,0 +1,54 @@
+<Stats deaths="1" kills="70" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="bat" value="4" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="fish" value="6" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="longleg" value="8" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="3" >
+    </E>
+    <E key="scavenger_mine" value="1" >
+    </E>
+    <E key="scavenger_smg" value="4" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="zombie_weak" value="16" >
+    </E>
+  </kill_map>
+</Stats>

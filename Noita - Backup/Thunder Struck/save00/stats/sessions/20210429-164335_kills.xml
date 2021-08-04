@@ -1,0 +1,28 @@
+<Stats deaths="1" kills="17" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="shotgunner | $damage_fire" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="dripping_water" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="iceskull" value="4" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

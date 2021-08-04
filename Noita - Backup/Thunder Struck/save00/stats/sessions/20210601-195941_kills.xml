@@ -1,0 +1,48 @@
+<Stats deaths="1" kills="66" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="egg_slime" value="1" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="necromancer" value="1" >
+    </E>
+    <E key="pebble_physics" value="3" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="radioactive_blob_trail" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="19" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="13" >
+    </E>
+    <E key="shotgunner" value="4" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+  </kill_map>
+</Stats>

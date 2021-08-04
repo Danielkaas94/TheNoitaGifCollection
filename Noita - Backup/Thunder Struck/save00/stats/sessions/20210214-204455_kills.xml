@@ -1,0 +1,32 @@
+<Stats deaths="1" kills="32" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="tank | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="drone_lasership" value="3" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="4" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_smg" value="4" >
+    </E>
+    <E key="shotgunner" value="7" >
+    </E>
+    <E key="slime" value="5" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="turret_left" value="1" >
+    </E>
+  </kill_map>
+</Stats>

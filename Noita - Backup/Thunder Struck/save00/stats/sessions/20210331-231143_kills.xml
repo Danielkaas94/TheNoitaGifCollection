@@ -1,0 +1,94 @@
+<Stats deaths="1" kills="120" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="bat" value="3" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="coward" value="2" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="flamer" value="1" >
+    </E>
+    <E key="frog" value="3" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="glue" value="2" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="lukki" value="1" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_weak" value="8" >
+    </E>
+    <E key="miniblob" value="9" >
+    </E>
+    <E key="monk" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="3" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="13" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="8" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="shooterflower" value="2" >
+    </E>
+    <E key="shotgunner" value="7" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skullfly" value="2" >
+    </E>
+    <E key="skullrat" value="1" >
+    </E>
+    <E key="slimeshooter" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sniper" value="5" >
+    </E>
+    <E key="tank" value="5" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+    <E key="zombie_weak" value="8" >
+    </E>
+  </kill_map>
+</Stats>

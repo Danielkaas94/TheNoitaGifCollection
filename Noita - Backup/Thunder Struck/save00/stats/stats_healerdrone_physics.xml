@@ -1,0 +1,34 @@
+<Stats deaths="154" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="21" >
+    </E>
+    <E key="NULL | $damage_explosion" value="59" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="10" >
+    </E>
+    <E key="NULL | damage from material: acid" value="3" >
+    </E>
+    <E key="NULL | physics body damaged" value="12" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="16" >
+    </E>
+    <E key="player | $damage_projectile" value="17" >
+    </E>
+    <E key="player_rng_items | $damage_electricity" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="3" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="7" >
+    </E>
+    <E key="roboguard | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>
