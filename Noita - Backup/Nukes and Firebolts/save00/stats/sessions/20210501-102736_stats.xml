@@ -1,0 +1,12 @@
+<Stats BUILD_NAME="Noita-Build-Apr 23 2021-18:44:24" >
+  <stats biomes_visited_with_wands="1" damage_taken="10.6198" dead="1" death_count="0" death_pos.x="-178.076" death_pos.y="5616.29" enemies_killed="5" gold="821" gold_all="1061" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="2" kicks="3" killed_by="Snipuhiisi | projectile" killed_by_extra="" places_visited="1" playtime="1094.53" playtime_str="0:18:14" projectiles_shot="212" streaks="0" teleports="0" wands_edited="0" world_seed="1684417610" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="0" damage_taken="4.05" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1" gold="761" gold_all="1001" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="1" kicks="3" killed_by="" killed_by_extra="" places_visited="0" playtime="1005.38" playtime_str="0:16:45" projectiles_shot="158" streaks="0" teleports="0" wands_edited="0" world_seed="1684417610" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

@@ -1,0 +1,50 @@
+<Stats deaths="1" kills="49" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="wizard_tele | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="firebug" value="9" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fish" value="3" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="longleg" value="6" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="roboguard" value="2" >
+    </E>
+    <E key="scavenger_invis" value="2" >
+    </E>
+    <E key="shotgunner" value="5" >
+    </E>
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="slimeshooter" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

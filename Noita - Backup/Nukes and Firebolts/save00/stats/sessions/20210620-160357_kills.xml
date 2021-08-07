@@ -1,0 +1,48 @@
+<Stats deaths="1" kills="63" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="wizard_twitchy | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="acidshot" value="4" >
+    </E>
+    <E key="assassin" value="1" >
+    </E>
+    <E key="bat" value="6" >
+    </E>
+    <E key="firebug" value="6" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="longleg" value="17" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slime" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+    <E key="spidernest" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+    <E key="zombie_weak" value="7" >
+    </E>
+  </kill_map>
+</Stats>

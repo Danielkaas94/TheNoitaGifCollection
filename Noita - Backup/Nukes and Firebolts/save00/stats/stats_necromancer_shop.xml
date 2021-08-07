@@ -1,0 +1,90 @@
+<Stats deaths="73" kills="239" player_kills="7" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="5" >
+    </E>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="25" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="25" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="5" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="2" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="4" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="bomb" value="11" >
+    </E>
+    <E key="fish" value="131" >
+    </E>
+    <E key="fly" value="3" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="lasershooter" value="1" >
+    </E>
+    <E key="mine" value="17" >
+    </E>
+    <E key="miniblob" value="6" >
+    </E>
+    <E key="pebble_player_physics" value="25" >
+    </E>
+    <E key="physics_barrel_oil" value="1" >
+    </E>
+    <E key="physics_lantern_small" value="4" >
+    </E>
+    <E key="physics_torch_stand" value="2" >
+    </E>
+    <E key="player" value="7" >
+    </E>
+    <E key="player_rng_items" value="2" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="sheep_bat" value="1" >
+    </E>
+    <E key="sheep_fly" value="1" >
+    </E>
+    <E key="shooterflower" value="1" >
+    </E>
+    <E key="skullrat" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="2" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="temple_lantern" value="4" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

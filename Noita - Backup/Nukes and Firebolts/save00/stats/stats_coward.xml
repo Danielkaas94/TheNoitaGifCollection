@@ -1,0 +1,72 @@
+<Stats deaths="261" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="10" >
+    </E>
+    <E key="NULL | $damage_electricity" value="11" >
+    </E>
+    <E key="NULL | $damage_explosion" value="24" >
+    </E>
+    <E key="NULL | $damage_fire" value="49" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="11" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="2" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="7" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="6" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="contact_damage | $damage_curse" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="6" >
+    </E>
+    <E key="player | $damage_explosion" value="62" >
+    </E>
+    <E key="player | $damage_fire" value="3" >
+    </E>
+    <E key="player | $damage_ice" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="29" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player | bzzt!" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_electricity" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="12" >
+    </E>
+    <E key="player_rng_items | $damage_fire" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="9" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_explosion" value="2" >
+    </E>
+    <E key="sniper | $damage_melee" value="1" >
+    </E>
+    <E key="tentacle_portal | $damage_melee" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+  </kill_map>
+</Stats>

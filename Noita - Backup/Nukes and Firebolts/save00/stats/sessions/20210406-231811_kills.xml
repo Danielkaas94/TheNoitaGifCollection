@@ -1,0 +1,78 @@
+<Stats deaths="1" kills="131" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bloom" value="2" >
+    </E>
+    <E key="coward" value="1" >
+    </E>
+    <E key="drone_lasership" value="3" >
+    </E>
+    <E key="fish" value="6" >
+    </E>
+    <E key="fly" value="12" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="iceskull" value="6" >
+    </E>
+    <E key="lukki" value="2" >
+    </E>
+    <E key="lukki_longleg" value="2" >
+    </E>
+    <E key="mine_scavenger" value="4" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="radioactive_blob_trail" value="1" >
+    </E>
+    <E key="rat" value="6" >
+    </E>
+    <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="25" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_leader" value="2" >
+    </E>
+    <E key="scavenger_mine" value="2" >
+    </E>
+    <E key="scavenger_poison" value="6" >
+    </E>
+    <E key="scavenger_smg" value="15" >
+    </E>
+    <E key="shooterflower" value="1" >
+    </E>
+    <E key="shotgunner" value="5" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="sniper" value="7" >
+    </E>
+    <E key="tank" value="3" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="tank_super" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="turret_right" value="1" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+  </kill_map>
+</Stats>

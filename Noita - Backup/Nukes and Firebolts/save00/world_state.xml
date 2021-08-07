@@ -1,0 +1,374 @@
+<Entity 
+  _version="1" 
+  name="unknown" 
+  serialize="0" 
+  tags="world_state" >
+  <_Transform 
+    position.x="0" 
+    position.y="0" 
+    rotation="0" 
+    scale.x="1" 
+    scale.y="1" >
+  </_Transform>
+  <WorldStateComponent 
+    DEBUG_LOADED_FROM_AUTOSAVE="0" 
+    DEBUG_LOADED_FROM_OLD_VERSION="0" 
+    ENDING_HAPPINESS="0" 
+    ENDING_HAPPINESS_FRAMES="0" 
+    ENDING_HAPPINESS_HAPPENING="0" 
+    EVERYTHING_TO_GOLD="0" 
+    INFINITE_GOLD_HAPPENING="0" 
+    _enabled="1" 
+    clouds_01_target="58.9567" 
+    clouds_02_target="92.8949" 
+    consume_actions="1" 
+    damage_flash_multiplier="1" 
+    day_count="4" 
+    fog="0" 
+    fog_target="0" 
+    global_genome_relations_modifier="0" 
+    gore_multiplier="1" 
+    gradient_sky_alpha_target="0" 
+    intro_weather="0" 
+    is_initialized="1" 
+    lightning_count="0" 
+    mFlashAlpha="0" 
+    material_everything_to_gold="gold" 
+    material_everything_to_gold_static="gold_static" 
+    mods_have_been_active_during_this_run="0" 
+    next_cut_through_world_id="0" 
+    next_portal_id="1" 
+    open_fog_of_war_everywhere="0" 
+    perk_gold_is_forever="0" 
+    perk_hp_drop_chance="0" 
+    perk_infinite_spells="1" 
+    perk_rats_player_friendly="0" 
+    perk_trick_kills_blood_money="0" 
+    player_did_damage_over_1milj="0" 
+    player_did_infinite_spell_count="0" 
+    player_living_with_minus_hp="0" 
+    player_polymorph_count="0" 
+    player_polymorph_random_count="0" 
+    player_spawn_location.x="0" 
+    player_spawn_location.y="0" 
+    rain="0.00498822" 
+    rain_target="0" 
+    session_stat_file="??STA/sessions/20210807-230438" 
+    sky_sunset_alpha_target="1" 
+    time="0.363526" 
+    time_dt="1" 
+    time_total="3.68653" 
+    trick_kill_gold_multiplier="2" 
+    twitch_has_been_active_during_this_run="0" 
+    wind="0.0855006" 
+    wind_speed="5.13007" 
+    wind_speed_sin="3" 
+    wind_speed_sin_t="10" >
+    <lua_globals>
+      <E 
+        key="HOLY_MOUNTAIN_DEPTH" 
+        value="20" >
+      </E>
+      <E 
+        key="HOLY_MOUNTAIN_VISITS" 
+        value="6" >
+      </E>
+      <E 
+        key="ORB_MAP_STRING" 
+        value="8,1 1,-3 -9,7 -8,19 -18,28 -20,5 -1,31 20,31 19,5 6,3 19,-3" >
+      </E>
+      <E 
+        key="PERK_PICKED_DUPLICATE_PROJECTILE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_FAST_PROJECTILES_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_GAMBLE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_INVISIBILITY_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_PROTECTION_EXPLOSION_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_SHIELD_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_STAINLESS_ARMOUR_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_UNLIMITED_SPELLS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_SHIELD_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_10523" 
+        value="0" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_1307" 
+        value="0" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_2843" 
+        value="0" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_4891" 
+        value="0" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_6427" 
+        value="0" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_8475" 
+        value="0" >
+      </E>
+      <E 
+        key="TEMPLE_COLLAPSED_0_12" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_COLLAPSED_0_16" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_COLLAPSED_0_2" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_COLLAPSED_0_20" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_COLLAPSED_0_5" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_COLLAPSED_0_9" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_NEXT_PERK_INDEX" 
+        value="21" >
+      </E>
+      <E 
+        key="TEMPLE_PERK_REROLL_COUNT" 
+        value="4" >
+      </E>
+      <E 
+        key="TEMPLE_REROLL_PERK_INDEX" 
+        value="95" >
+      </E>
+      <E 
+        key="fungal_shift_iteration" 
+        value="3" >
+      </E>
+      <E 
+        key="fungal_shift_last_frame" 
+        value="72898" >
+      </E>
+      <E 
+        key="visited_biomes" 
+        value="$biome_vault,$biome_holymountain,$biome_fungicave,$biome_rainforest,$biome_snowc" >
+      </E>
+      <E 
+        key="visited_biomes_count" 
+        value="12" >
+      </E>
+    </lua_globals>
+    <pending_portals>
+    </pending_portals>
+    <apparitions_per_level>
+      <primitive>
+        4
+      </primitive>
+    </apparitions_per_level>
+    <npc_parties>
+    </npc_parties>
+    <orbs_found_thisrun>
+    </orbs_found_thisrun>
+    <flags>
+      <string>
+        PERK_UNLIMITED_SPELLS
+      </string>
+      <string>
+        PERK_WORM_ATTRACTOR
+      </string>
+      <string>
+        PERK_BLEED_GAS
+      </string>
+      <string>
+        PERK_PICKED_UNLIMITED_SPELLS
+      </string>
+      <string>
+        PERK_PROJECTILE_SLOW_FIELD
+      </string>
+      <string>
+        PERK_GLASS_CANNON
+      </string>
+      <string>
+        PERK_SHIELD
+      </string>
+      <string>
+        PERK_PICKED_SHIELD
+      </string>
+      <string>
+        PERK_RESPAWN
+      </string>
+      <string>
+        PERK_FAST_PROJECTILES
+      </string>
+      <string>
+        PERK_ATTRACT_ITEMS
+      </string>
+      <string>
+        PERK_PICKED_FAST_PROJECTILES
+      </string>
+      <string>
+        PERK_REVENGE_RATS
+      </string>
+      <string>
+        PERK_HEARTS_MORE_EXTRA_HP
+      </string>
+      <string>
+        PERK_WAND_EXPERIMENTER
+      </string>
+      <string>
+        PERK_PROTECTION_EXPLOSION
+      </string>
+      <string>
+        PERK_MOLD
+      </string>
+      <string>
+        PERK_PROJECTILE_HOMING
+      </string>
+      <string>
+        PERK_PICKED_PROTECTION_EXPLOSION
+      </string>
+      <string>
+        PERK_DUPLICATE_PROJECTILE
+      </string>
+      <string>
+        PERK_PERKS_LOTTERY
+      </string>
+      <string>
+        PERK_PROTECTION_FIRE
+      </string>
+      <string>
+        PERK_PICKED_DUPLICATE_PROJECTILE
+      </string>
+      <string>
+        PERK_REVENGE_BULLET
+      </string>
+      <string>
+        PERK_NO_MORE_SHUFFLE
+      </string>
+      <string>
+        PERK_EXTRA_SHOP_ITEM
+      </string>
+      <string>
+        PERK_IRON_STOMACH
+      </string>
+      <string>
+        PERK_EXTRA_MANA
+      </string>
+      <string>
+        PERK_EXPLODING_CORPSES
+      </string>
+      <string>
+        PERK_ANGRY_GHOST
+      </string>
+      <string>
+        PERK_HOMUNCULUS
+      </string>
+      <string>
+        PERK_NO_MORE_KNOCKBACK
+      </string>
+      <string>
+        PERK_DISSOLVE_POWDERS
+      </string>
+      <string>
+        PERK_GAMBLE
+      </string>
+      <string>
+        PERK_PLAGUE_RATS
+      </string>
+      <string>
+        PERK_PICKED_GAMBLE
+      </string>
+      <string>
+        PERK_INVISIBILITY
+      </string>
+      <string>
+        PERK_PICKED_INVISIBILITY
+      </string>
+      <string>
+        PERK_STAINLESS_ARMOUR
+      </string>
+      <string>
+        PERK_PICKED_STAINLESS_ARMOUR
+      </string>
+    </flags>
+    <changed_materials>
+      <string>
+        lava
+      </string>
+      <string>
+        vomit
+      </string>
+      <string>
+        acid
+      </string>
+      <string>
+        gunpowder
+      </string>
+      <string>
+        steam
+      </string>
+      <string>
+        sima
+      </string>
+      <string>
+        smoke
+      </string>
+      <string>
+        sima
+      </string>
+    </changed_materials>
+    <cuts_through_world>
+    </cuts_through_world>
+  </WorldStateComponent>
+  <Entity 
+    _version="1" 
+    name="player_stats" 
+    serialize="0" 
+    tags="" >
+    <_Transform 
+      position.x="0" 
+      position.y="0" 
+      rotation="0" 
+      scale.x="1" 
+      scale.y="1" >
+    </_Transform>
+    <PlayerStatsComponent 
+      _enabled="1" 
+      lives="1" 
+      max_hp="4" 
+      speed="1" >
+    </PlayerStatsComponent>
+  </Entity>
+</Entity>

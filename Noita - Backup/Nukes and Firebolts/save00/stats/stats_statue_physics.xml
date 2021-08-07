@@ -1,0 +1,20 @@
+<Stats deaths="19" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | physics body damaged" value="10" >
+    </E>
+    <E key="base_apparition | $damage_projectile" value="1" >
+    </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="1" >
+    </E>
+    <E key="phantom_a | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

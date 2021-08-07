@@ -1,0 +1,88 @@
+<Stats deaths="1" kills="109" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="ant" value="1" >
+    </E>
+    <E key="arrowtrap_left" value="1" >
+    </E>
+    <E key="assassin" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="dripping_water" value="1" >
+    </E>
+    <E key="drone_lasership" value="7" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="flamer" value="2" >
+    </E>
+    <E key="fly" value="4" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="healerdrone_physics" value="1" >
+    </E>
+    <E key="icer" value="1" >
+    </E>
+    <E key="iceskull" value="3" >
+    </E>
+    <E key="lukki" value="1" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="miniblob" value="3" >
+    </E>
+    <E key="monk" value="1" >
+    </E>
+    <E key="phantom_a" value="1" >
+    </E>
+    <E key="phantom_b" value="2" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="roboguard" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="15" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_smg" value="11" >
+    </E>
+    <E key="shotgunner" value="9" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skullrat" value="1" >
+    </E>
+    <E key="sniper" value="3" >
+    </E>
+    <E key="spearbot" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tank_rocket" value="2" >
+    </E>
+    <E key="turret_right" value="1" >
+    </E>
+    <E key="wizard_dark" value="2" >
+    </E>
+    <E key="worm_tiny" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

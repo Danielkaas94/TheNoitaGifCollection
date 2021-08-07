@@ -1,0 +1,24 @@
+<Stats deaths="1" kills="17" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="miniblob" value="6" >
+    </E>
+    <E key="scavenger_grenade" value="4" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,70 @@
+<Stats deaths="1" kills="105" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="missilecrab | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="assassin" value="1" >
+    </E>
+    <E key="bat" value="4" >
+    </E>
+    <E key="dripping_radioactive" value="2" >
+    </E>
+    <E key="firebug" value="4" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="fish" value="3" >
+    </E>
+    <E key="fish_large" value="1" >
+    </E>
+    <E key="fly" value="2" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="iceskull" value="4" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="miniblob" value="2" >
+    </E>
+    <E key="monk" value="2" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="rat" value="11" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="18" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_mine" value="1" >
+    </E>
+    <E key="scavenger_smg" value="12" >
+    </E>
+    <E key="shotgunner" value="13" >
+    </E>
+    <E key="sniper" value="4" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="thunderskull" value="2" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+  </kill_map>
+</Stats>

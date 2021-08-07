@@ -1,0 +1,26 @@
+<Stats deaths="1" kills="28" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fish" value="3" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="11" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="6" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+  </kill_map>
+</Stats>

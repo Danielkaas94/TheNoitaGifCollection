@@ -1,0 +1,14 @@
+<Stats deaths="1" kills="3" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+  </kill_map>
+</Stats>

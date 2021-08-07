@@ -1,0 +1,28 @@
+<Stats deaths="11" kills="4" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="orb_green | $damage_projectile" value="1" >
+    </E>
+    <E key="phantom_a | $damage_projectile" value="1" >
+    </E>
+    <E key="phantom_b | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="3" >
+    </E>
+    <E key="wizard_returner | $damage_projectile" value="1" >
+    </E>
+    <E key="wraith_glowing | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+  </kill_map>
+</Stats>

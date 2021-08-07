@@ -1,0 +1,14 @@
+<Stats deaths="1" kills="11" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="fish" value="6" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+  </kill_map>
+</Stats>

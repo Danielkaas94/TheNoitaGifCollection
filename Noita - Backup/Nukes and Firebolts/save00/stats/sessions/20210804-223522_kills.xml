@@ -1,0 +1,44 @@
+<Stats deaths="1" kills="73" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="egg_hollow" value="16" >
+    </E>
+    <E key="fly" value="2" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="icemage" value="2" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="mine_scavenger" value="1" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="miniblob" value="5" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="16" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_smg" value="9" >
+    </E>
+    <E key="shotgunner" value="7" >
+    </E>
+    <E key="sniper" value="3" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="turret_left" value="1" >
+    </E>
+  </kill_map>
+</Stats>

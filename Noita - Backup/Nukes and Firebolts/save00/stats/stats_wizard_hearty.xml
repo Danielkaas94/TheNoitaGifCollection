@@ -1,0 +1,60 @@
+<Stats deaths="48" kills="39" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="5" >
+    </E>
+    <E key="NULL | $damage_fire" value="14" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="acidshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="crystal_physics | $damage_projectile" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="1" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="12" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_projectile" value="1" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="4" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="4" >
+    </E>
+    <E key="bat" value="1" >
+    </E>
+    <E key="fish_large" value="3" >
+    </E>
+    <E key="fly" value="11" >
+    </E>
+    <E key="mimic_physics" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scorpion" value="7" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="skullrat" value="6" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

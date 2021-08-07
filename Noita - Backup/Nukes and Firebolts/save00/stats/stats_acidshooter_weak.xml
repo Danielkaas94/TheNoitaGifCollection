@@ -1,0 +1,64 @@
+<Stats deaths="243" kills="38" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="19" >
+    </E>
+    <E key="NULL | $damage_fire" value="50" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="7" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="3" >
+    </E>
+    <E key="longleg | $damage_melee" value="2" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="20" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="7" >
+    </E>
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="58" >
+    </E>
+    <E key="player | $damage_slice" value="7" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="4" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="29" >
+    </E>
+    <E key="shooterflower | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="12" >
+    </E>
+    <E key="slimeshooter_weak | $damage_projectile" value="1" >
+    </E>
+    <E key="thunderskull | $damage_electricity" value="1" >
+    </E>
+    <E key="worm | worm bite" value="3" >
+    </E>
+    <E key="worm_tiny | worm bite" value="1" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="5" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="longleg" value="12" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="zombie_weak" value="24" >
+    </E>
+  </kill_map>
+</Stats>

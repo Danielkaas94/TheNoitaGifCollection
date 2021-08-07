@@ -1,0 +1,18 @@
+<Stats deaths="1" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+  </kill_map>
+</Stats>

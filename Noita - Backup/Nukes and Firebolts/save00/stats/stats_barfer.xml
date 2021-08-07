@@ -1,0 +1,36 @@
+<Stats deaths="42" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="3" >
+    </E>
+    <E key="acidshooter | $damage_melee" value="1" >
+    </E>
+    <E key="crystal_physics | $damage_projectile" value="2" >
+    </E>
+    <E key="phantom_b | $damage_melee" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="8" >
+    </E>
+    <E key="player | $damage_projectile" value="11" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="4" >
+    </E>
+    <E key="skullfly | $damage_melee" value="1" >
+    </E>
+    <E key="skullrat | $damage_melee" value="3" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="2" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

@@ -1,0 +1,54 @@
+<Stats deaths="1" kills="89" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="8" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="firebug" value="4" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="miner_weak" value="5" >
+    </E>
+    <E key="monk" value="1" >
+    </E>
+    <E key="pebble_physics" value="2" >
+    </E>
+    <E key="rat" value="8" >
+    </E>
+    <E key="scavenger_grenade" value="9" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_smg" value="11" >
+    </E>
+    <E key="shotgunner" value="8" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sniper" value="5" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tank_rocket" value="2" >
+    </E>
+    <E key="turret_left" value="1" >
+    </E>
+    <E key="zombie_weak" value="6" >
+    </E>
+  </kill_map>
+</Stats>

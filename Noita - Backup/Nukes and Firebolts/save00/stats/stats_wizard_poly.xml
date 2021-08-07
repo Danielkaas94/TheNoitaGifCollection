@@ -1,0 +1,46 @@
+<Stats deaths="67" kills="54" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="7" >
+    </E>
+    <E key="NULL | $damage_fire" value="5" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="5" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="4" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="13" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="18" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="3" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="3" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="wizard_poly | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="polyorb" value="2" >
+    </E>
+    <E key="sheep" value="43" >
+    </E>
+    <E key="sheep_bat" value="4" >
+    </E>
+    <E key="sheep_fly" value="4" >
+    </E>
+    <E key="wizard_poly" value="1" >
+    </E>
+  </kill_map>
+</Stats>

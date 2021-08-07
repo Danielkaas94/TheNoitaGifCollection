@@ -1,0 +1,40 @@
+<Stats deaths="1" kills="41" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="fly" value="2" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="mine_scavenger" value="2" >
+    </E>
+    <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="14" >
+    </E>
+    <E key="scavenger_smg" value="9" >
+    </E>
+    <E key="shooterflower" value="2" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+  </kill_map>
+</Stats>

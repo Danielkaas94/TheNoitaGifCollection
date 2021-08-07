@@ -1,0 +1,36 @@
+<Stats deaths="1" kills="49" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="6" >
+    </E>
+    <E key="firebug" value="5" >
+    </E>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_weak" value="10" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="rat" value="6" >
+    </E>
+    <E key="root_grower" value="2" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="4" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>

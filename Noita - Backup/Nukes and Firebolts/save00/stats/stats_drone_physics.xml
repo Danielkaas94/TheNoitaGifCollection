@@ -1,0 +1,94 @@
+<Stats deaths="732" kills="93" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="92" >
+    </E>
+    <E key="NULL | $damage_explosion" value="276" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="25" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="6" >
+    </E>
+    <E key="NULL | physics body damaged" value="171" >
+    </E>
+    <E key="ant | $damage_melee" value="1" >
+    </E>
+    <E key="fly | $damage_melee" value="1" >
+    </E>
+    <E key="frog_big | $damage_melee" value="1" >
+    </E>
+    <E key="lasershooter | $damage_projectile" value="1" >
+    </E>
+    <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="missilecrab | $damage_explosion" value="1" >
+    </E>
+    <E key="pebble_physics | $damage_explosion" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_electricity" value="11" >
+    </E>
+    <E key="player | $damage_explosion" value="48" >
+    </E>
+    <E key="player | $damage_projectile" value="47" >
+    </E>
+    <E key="player_rng_items | $damage_electricity" value="4" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="12" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="19" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="2" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="2" >
+    </E>
+    <E key="thunderskull | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombietorso" value="1" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="frog" value="2" >
+    </E>
+    <E key="miniblob" value="18" >
+    </E>
+    <E key="pebble_player_physics" value="5" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="rat" value="49" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="sheep" value="3" >
+    </E>
+    <E key="sheep_bat" value="1" >
+    </E>
+    <E key="sheep_fly" value="1" >
+    </E>
+    <E key="tentacler_small" value="6" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+  </kill_map>
+</Stats>

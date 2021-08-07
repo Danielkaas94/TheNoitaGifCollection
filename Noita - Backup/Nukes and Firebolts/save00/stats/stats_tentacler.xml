@@ -1,0 +1,244 @@
+<Stats deaths="898" kills="413" player_kills="8" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="10" >
+    </E>
+    <E key="NULL | $damage_electricity" value="31" >
+    </E>
+    <E key="NULL | $damage_explosion" value="135" >
+    </E>
+    <E key="NULL | $damage_fire" value="74" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="28" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="4" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="3" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="18" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="3" >
+    </E>
+    <E key="NULL | damage from material: lava" value="16" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="19" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="bloom | $damage_explosion" value="1" >
+    </E>
+    <E key="crystal_physics | $damage_projectile" value="9" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="2" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="1" >
+    </E>
+    <E key="fly | $damage_melee" value="1" >
+    </E>
+    <E key="lukki_longleg | hit" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
+    <E key="necromancer | $damage_melee" value="1" >
+    </E>
+    <E key="necromancer_shop | $damage_explosion" value="1" >
+    </E>
+    <E key="orb_green | $damage_projectile" value="6" >
+    </E>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="pebble_player_physics | $damage_explosion" value="1" >
+    </E>
+    <E key="phantom_a | $damage_melee" value="4" >
+    </E>
+    <E key="phantom_a | $damage_projectile" value="2" >
+    </E>
+    <E key="phantom_b | $damage_melee" value="1" >
+    </E>
+    <E key="phantom_b | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="11" >
+    </E>
+    <E key="player | $damage_explosion" value="117" >
+    </E>
+    <E key="player | $damage_fire" value="13" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="2" >
+    </E>
+    <E key="player | $damage_ice" value="2" >
+    </E>
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_physicshit" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="184" >
+    </E>
+    <E key="player | $damage_slice" value="17" >
+    </E>
+    <E key="player_rng_items | $damage_electricity" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="38" >
+    </E>
+    <E key="player_rng_items | $damage_fire" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_physicshit" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="55" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="11" >
+    </E>
+    <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_poison | $damage_projectile" value="1" >
+    </E>
+    <E key="shooterflower | $damage_projectile" value="1" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="2" >
+    </E>
+    <E key="skullrat | $damage_melee" value="5" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler | $damage_explosion" value="3" >
+    </E>
+    <E key="tentacler | $damage_melee" value="6" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="1" >
+    </E>
+    <E key="thunderskull | $damage_melee" value="2" >
+    </E>
+    <E key="wizard_neutral | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_returner | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_swapper | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+    <E key="worm_skull | worm bite" value="25" >
+    </E>
+    <E key="wraith_glowing | $damage_explosion" value="1" >
+    </E>
+    <E key="wraith_glowing | $damage_projectile" value="3" >
+    </E>
+    <E key="zombie | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="3" >
+    </E>
+    <E key="acidshot" value="4" >
+    </E>
+    <E key="alchemist" value="2" >
+    </E>
+    <E key="ant" value="1" >
+    </E>
+    <E key="bat" value="14" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="egg_fire" value="1" >
+    </E>
+    <E key="failed_alchemist_orb" value="1" >
+    </E>
+    <E key="firebug" value="9" >
+    </E>
+    <E key="fly" value="3" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="fungus" value="3" >
+    </E>
+    <E key="fungus_big" value="1" >
+    </E>
+    <E key="glue" value="7" >
+    </E>
+    <E key="lasershooter" value="1" >
+    </E>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="miniblob" value="15" >
+    </E>
+    <E key="necromancer" value="1" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="phantom_a" value="2" >
+    </E>
+    <E key="phantom_b" value="2" >
+    </E>
+    <E key="physics_torch_stand" value="2" >
+    </E>
+    <E key="physics_vase_longleg" value="2" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="player" value="8" >
+    </E>
+    <E key="player_rng_items" value="3" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="potion" value="2" >
+    </E>
+    <E key="rat" value="91" >
+    </E>
+    <E key="scavenger_glue" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="scorpion" value="85" >
+    </E>
+    <E key="sheep" value="4" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="skullfly" value="8" >
+    </E>
+    <E key="skullrat" value="20" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="3" >
+    </E>
+    <E key="sniper" value="3" >
+    </E>
+    <E key="tentacler" value="9" >
+    </E>
+    <E key="tentacler_small" value="44" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="wizard_dark" value="3" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="wizard_tele" value="2" >
+    </E>
+    <E key="worm" value="6" >
+    </E>
+    <E key="worm_skull" value="2" >
+    </E>
+    <E key="wraith_glowing" value="1" >
+    </E>
+    <E key="zombie" value="21" >
+    </E>
+  </kill_map>
+</Stats>

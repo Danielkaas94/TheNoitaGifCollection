@@ -1,0 +1,38 @@
+<Stats deaths="0" kills="41" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="monk" value="4" >
+    </E>
+    <E key="necromancer" value="1" >
+    </E>
+    <E key="phantom_a" value="1" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="10" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="7" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="tank" value="5" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,78 @@
+<Stats deaths="41" kills="47" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="phantom_a | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="9" >
+    </E>
+    <E key="player | $damage_projectile" value="11" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="1" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="1" >
+    </E>
+    <E key="skullrat | $damage_melee" value="6" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="arrowtrap_left" value="2" >
+    </E>
+    <E key="bat" value="4" >
+    </E>
+    <E key="firetrap_right" value="1" >
+    </E>
+    <E key="longleg" value="7" >
+    </E>
+    <E key="mine" value="1" >
+    </E>
+    <E key="physics_vase" value="1" >
+    </E>
+    <E key="physics_vase_longleg" value="2" >
+    </E>
+    <E key="plague_rats_rat" value="4" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="scorpion" value="10" >
+    </E>
+    <E key="skullfly" value="2" >
+    </E>
+    <E key="skullrat" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="statue_physics" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

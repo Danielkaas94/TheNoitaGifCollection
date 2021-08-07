@@ -1,0 +1,158 @@
+<Stats deaths="247" kills="229" player_kills="3" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_electricity" value="5" >
+    </E>
+    <E key="NULL | $damage_explosion" value="8" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="8" >
+    </E>
+    <E key="NULL | damage from material: acid" value="8" >
+    </E>
+    <E key="NULL | damage from material: lava" value="11" >
+    </E>
+    <E key="acidshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="bat | $damage_melee" value="1" >
+    </E>
+    <E key="crystal_physics | $damage_projectile" value="4" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="3" >
+    </E>
+    <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="necromancer | $damage_melee" value="2" >
+    </E>
+    <E key="orb_green | $damage_projectile" value="1" >
+    </E>
+    <E key="phantom_a | $damage_explosion" value="1" >
+    </E>
+    <E key="phantom_b | $damage_melee" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_electricity" value="9" >
+    </E>
+    <E key="player | $damage_explosion" value="31" >
+    </E>
+    <E key="player | $damage_projectile" value="80" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_electricity" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="9" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="27" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="6" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="2" >
+    </E>
+    <E key="skullrat | $damage_melee" value="4" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="2" >
+    </E>
+    <E key="wizard_returner | $damage_projectile" value="2" >
+    </E>
+    <E key="worm | worm bite" value="3" >
+    </E>
+    <E key="worm_skull | worm bite" value="4" >
+    </E>
+    <E key="worm_tiny | worm bite" value="1" >
+    </E>
+    <E key="wraith_glowing | $damage_projectile" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="7" >
+    </E>
+    <E key="acidshot" value="15" >
+    </E>
+    <E key="arrowtrap_left" value="2" >
+    </E>
+    <E key="arrowtrap_right" value="6" >
+    </E>
+    <E key="bat" value="3" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="chest_mimic" value="1" >
+    </E>
+    <E key="enlightened_alchemist" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="firetrap_left" value="1" >
+    </E>
+    <E key="firetrap_right" value="1" >
+    </E>
+    <E key="longleg" value="9" >
+    </E>
+    <E key="maggot" value="3" >
+    </E>
+    <E key="mine" value="2" >
+    </E>
+    <E key="pebble_player_physics" value="2" >
+    </E>
+    <E key="phantom_a" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="10" >
+    </E>
+    <E key="physics_vase_longleg" value="2" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="player" value="3" >
+    </E>
+    <E key="player_rng_items" value="1" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="potion" value="2" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="3" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scorpion" value="88" >
+    </E>
+    <E key="sheep" value="4" >
+    </E>
+    <E key="skullfly" value="10" >
+    </E>
+    <E key="skullrat" value="13" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="4" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="statue_physics" value="1" >
+    </E>
+    <E key="temple_lantern" value="2" >
+    </E>
+    <E key="tentacler" value="6" >
+    </E>
+    <E key="tentacler_small" value="12" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+    <E key="wand_ghost" value="1" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+    <E key="worm_tiny" value="1" >
+    </E>
+    <E key="wraith" value="1" >
+    </E>
+    <E key="wraith_glowing" value="1" >
+    </E>
+  </kill_map>
+</Stats>
