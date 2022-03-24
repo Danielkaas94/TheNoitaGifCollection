@@ -8,47 +8,47 @@ Backup of some crazy save files, that later will inspire to be made as a mod, bu
 
 <div align="center">
 
-  <img alt="Heresy grows from idleness." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-003227-1046122271-00069558.gif?raw=true">
+  <img alt="Heresy grows from idleness." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-003227-1046122271-00069558.gif?raw=true">
   
-  <img alt="The difference between heresy and treachery is ignorance." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-003416-1046122271-00074247.gif?raw=true">
+  <img alt="The difference between heresy and treachery is ignorance." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-003416-1046122271-00074247.gif?raw=true">
   
-  <img alt="Only in death does duty end." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-003702-1046122271-00082381.gif?raw=true">
+  <img alt="Only in death does duty end." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-003702-1046122271-00082381.gif?raw=true">
 
-  <img alt="Hope is the first step on the road to disappointment." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-004110-1046122271-00095483.gif?raw=true">
+  <img alt="Hope is the first step on the road to disappointment." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-004110-1046122271-00095483.gif?raw=true">
 
-  <img alt="Fear denies faith." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-004605-1046122271-00111365.gif?raw=true">
+  <img alt="Fear denies faith." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-004605-1046122271-00111365.gif?raw=true">
 
-  <img alt="Cowards die in shame." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-004802-1046122271-00116613.gif?raw=true">
+  <img alt="Cowards die in shame." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-004802-1046122271-00116613.gif?raw=true">
 
-  <img alt="Prayer cleanses the soul, Pain cleanses the body." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-005206-1046122271-00129452.gif?raw=true">
+  <img alt="Prayer cleanses the soul, Pain cleanses the body." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-005206-1046122271-00129452.gif?raw=true">
 
-  <img alt="Work earns Salvation." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-005301-1046122271-00131035.gif?raw=true">
+  <img alt="Work earns Salvation." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-005301-1046122271-00131035.gif?raw=true">
 
-  <img alt="Without him there is nothing." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-005941-1046122271-00153183.gif?raw=true">
+  <img alt="Without him there is nothing." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-005941-1046122271-00153183.gif?raw=true">
 
-  <img alt="Victory needs no explanation, defeat allows none." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-010616-1046122271-00175047.gif?raw=true">
+  <img alt="Victory needs no explanation, defeat allows none." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-010616-1046122271-00175047.gif?raw=true">
 
-  <img alt="Cleanse, Purge, KILL!" width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-010737-1046122271-00178146.gif?raw=true">
+  <img alt="Cleanse, Purge, KILL!" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-010737-1046122271-00178146.gif?raw=true">
 
-  <img alt="For the Emperor!" width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-011419-1046122271-00200474.gif?raw=true">
+  <img alt="For the Emperor!" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220219-011419-1046122271-00200474.gif?raw=true">
 
-  <img alt="Walk softly, and carry a big gun" width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-183959-253632929-00005598.gif?raw=true">
+  <img alt="Walk softly, and carry a big gun" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-183959-253632929-00005598.gif?raw=true">
   
-  <img alt="Do you hear the voices, too?" width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-184322-253632929-00016028.gif?raw=true">
+  <img alt="Do you hear the voices, too?" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-184322-253632929-00016028.gif?raw=true">
 
-  <img alt="I am destruction incarnate!" width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-184814-253632929-00031843.gif?raw=true">
+  <img alt="I am destruction incarnate!" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-184814-253632929-00031843.gif?raw=true">
 
-  <img alt="Despair, for I am the end of days" width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-185004-253632929-00036781.gif?raw=true">
+  <img alt="Despair, for I am the end of days" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-185004-253632929-00036781.gif?raw=true">
 
-  <img alt="The Emperor guides my blade" width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-185858-253632929-00067039.gif?raw=true">
+  <img alt="The Emperor guides my blade" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-185858-253632929-00067039.gif?raw=true">
   
-  <img alt="Blood for the Blood God!" width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-190136-253632929-00074723.gif?raw=true">
+  <img alt="Blood for the Blood God!" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-190136-253632929-00074723.gif?raw=true">
 
-  <img alt="Sanity is for the weak!" width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-190336-253632929-00080121.gif?raw=true">
+  <img alt="Sanity is for the weak!" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-190336-253632929-00080121.gif?raw=true">
 
-  <img alt="We are the Space Marines! We are the Emperor’s fury!" width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-190546-253632929-00086132.gif?raw=true">
+  <img alt="We are the Space Marines! We are the Emperor’s fury!" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-190546-253632929-00086132.gif?raw=true">
 
-  <img alt="Faith without deeds is worthless." width="350" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-191641-80824771-00011319.gif?raw=true">
+  <img alt="Faith without deeds is worthless." width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220220-191641-80824771-00011319.gif?raw=true">
 
 </div>
 
