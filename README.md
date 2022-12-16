@@ -4,6 +4,15 @@ This repository might either be a collection with some blender photos or a Mod f
 Backup of some crazy save files, that later will inspire to be made as a mod, but for now a collection of all my Noita GIF's 🎥🎬📺
 
 
+
+<div align="center">
+<br>
+
+ <img alt="The Secret Seal of Solomon" width="340" src="https://raw.githubusercontent.com/Danielkaas94/JustTesting2021/dcd5b6d0d85a23983a77b029801443a35cc2a1e4/dev/Goetia_seal_of_solomon.svg">
+
+<br>
+</div>
+
 <details><summary>👿This is Heresy!😈</summary>
 
 <div align="center">
