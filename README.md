@@ -19,6 +19,11 @@ The Four Qualities of The Mage 🧙‍♂️
 <br>
 </div>
 
+  <img alt="The Exploit Gif" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220117-222631-105150522-00033561.gif?raw=true">
+
+
+
+
 <details><summary>👿This is Heresy!😈</summary>
 
 <div align="center">
