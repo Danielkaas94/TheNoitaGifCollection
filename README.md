@@ -11,8 +11,12 @@ The Four Qualities of The Mage 🧙‍♂️
   <li>To Keep silence</li>
 </ol>
 
+
+
 <div align="center">
 <br>
+
+# [🇫🇮🎶🍄 From Grotto + Niilo Takalainen 🍄🎵🇫🇮](https://youtu.be/vQNvy_QM5L4?t=12)
 
  <img alt="The Secret Seal of Solomon" width="340" src="https://raw.githubusercontent.com/Danielkaas94/JustTesting2021/dcd5b6d0d85a23983a77b029801443a35cc2a1e4/dev/Goetia_seal_of_solomon.svg">
 
