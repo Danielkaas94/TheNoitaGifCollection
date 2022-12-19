@@ -3,7 +3,13 @@
 This repository might either be a collection with some blender photos or a Mod for the game Noita... Why not both?
 Backup of some crazy save files, that later will inspire to be made as a mod, but for now a collection of all my Noita GIF's 🎥🎬📺
 
-
+The four Qualities of the Mage
+<ol type="A">
+  <li>To Know</li>
+  <li>To Will</li>
+  <li>To Dare</li>
+  <li>To Keep silence</li>
+</ol>
 
 <div align="center">
 <br>
