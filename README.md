@@ -19,7 +19,9 @@ The Four Qualities of The Mage 🧙‍♂️
 <br>
 </div>
 
-  <img alt="The Exploit Gif" width="400" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220117-222631-105150522-00033561.gif?raw=true">
+<img alt="Giga Disc Projectile Accident" width="700" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/9%20-%20September/noita-20220917-095659-932618107-00038206-min.gif?raw=true">
+
+<img alt="The Exploit Gif" width="700" src="https://github.com/Danielkaas94/JustTesting2021/blob/main/Noita%20-%20Gif/2022/noita-20220117-222631-105150522-00033561.gif?raw=true">
 
 
 
