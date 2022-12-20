@@ -18,7 +18,7 @@ The Four Qualities of The Mage 🧙‍♂️
 
 <br>
 
-## [✡♾ K. Amber 📕 The Basics Of Magick ♾✡](https://il.paganfederation.org/files/2013/03/K_Amber__The_Basics_Of_Magick.pdf)
+# [✡♾ K. Amber 📕 The Basics Of Magick ♾✡](https://il.paganfederation.org/files/2013/03/K_Amber__The_Basics_Of_Magick.pdf)
 
 <br><br>
 
@@ -149,7 +149,7 @@ The Four Qualities of The Mage 🧙‍♂️
 ## Link to the [Steam Store Page](https://store.steampowered.com/app/881100/Noita/)
 ### Thanks to Nolla Games for making this game.
 
-Join CodeWars with me!: www.codewars.com/r/hGyTsQ
+[Join CodeWars with me!](www.codewars.com/r/hGyTsQ)
 <p>
   <img alt="CodeWars Badge" src="https://www.codewars.com/users/Danielkaas94/badges/large">
 </p>
