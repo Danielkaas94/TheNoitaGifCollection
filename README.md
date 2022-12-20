@@ -18,7 +18,7 @@ The Four Qualities of The Mage 🧙‍♂️
 
 <br>
 
-## [✡♾ K. Amber 📕 The Basics Of Magick ♾✡](https://youtu.be/vQNvy_QM5L4?t=12)
+## [✡♾ K. Amber 📕 The Basics Of Magick ♾✡](https://il.paganfederation.org/files/2013/03/K_Amber__The_Basics_Of_Magick.pdf)
 
 <br><br>
 
