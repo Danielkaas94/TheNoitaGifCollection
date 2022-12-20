@@ -16,8 +16,14 @@ The Four Qualities of The Mage 🧙‍♂️
 <div align="center">
 <br>
 
+<br>
+
+## [✡♾ K. Amber 📕 The Basics Of Magick ♾✡](https://youtu.be/vQNvy_QM5L4?t=12)
+
+<br><br>
+
 # [🇫🇮🎶🍄 From Grotto + Niilo Takalainen 🍄🎵🇫🇮](https://youtu.be/vQNvy_QM5L4?t=12)
-  
+
 # [🇫🇮🎶🍄 Peace At Last 🍄🎵🇫🇮](https://youtu.be/zocCCIoL4_M)
 
  <img alt="The Secret Seal of Solomon" width="340" src="https://raw.githubusercontent.com/Danielkaas94/JustTesting2021/dcd5b6d0d85a23983a77b029801443a35cc2a1e4/dev/Goetia_seal_of_solomon.svg">
