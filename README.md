@@ -39,7 +39,7 @@ The Four Qualities of The Mage 🧙‍♂️
 
 </div>
 
-
+<hr>
 
 <details><summary>👿This is Heresy!😈</summary>
 
@@ -90,6 +90,8 @@ The Four Qualities of The Mage 🧙‍♂️
 </div>
 
 </details>
+
+<hr>
 
 <!-- <p align="center">
   <img alt="Noita Gif #1" width="400" src="https://ww1.sinaimg.cn/mw1024/63dae378ly1fhw0wnr8w0g20m80cge82.gif">
