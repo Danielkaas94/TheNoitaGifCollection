@@ -56,6 +56,7 @@ The Four Qualities of The Mage 🧙‍♂️
 
 <img alt="Water ➡ Rock & Lava ➡ Steam" width="900" src="https://github.com/Danielkaas94/TheNoitaGifCollection/blob/main/Noita%20-%20Gif/2023/3%20-%20Marts/noita-20230305-214147-1717156715-00274647.gif?raw=true">
 
+  Water ➡ Rock & Lava ➡ Steam 🌊➡🗿 & 🌋➡♨
 
 <!-- <img alt="" width="900" src=""> -->
 
